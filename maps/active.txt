@@ -1,0 +1,26 @@
+# CubeRTS map
+# base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
+mapsize 9
+base 0 -5.17745 4.10007 319
+base 1 5.09674 -4.1843 129
+resource -4.36293 -5.31314 139
+resource 5.66039 6.0973 325
+barrier 2.9538 -7.54718 2.7 118
+barrier 5.48821 -0.973672 3.9 0
+barrier -0.766602 -7.98323 3.8 198
+barrier -5.96435 -6.96101 3.2 144
+barrier 1.36208 -1.78065 1.2 65
+barrier 8.8531 -5.05793 4 88
+barrier 6.29042 -8.84059 2.5 191
+barrier -8.14132 7.29056 2 53
+barrier -8.36527 3.62593 2.5 111
+barrier -4.16625 8.40209 3 171
+barrier -0.813242 6.43729 2 119
+barrier -4.31992 1.6298 3.6 0
+barrier -0.0756156 2.3478 1.1 39
+barrier -1.04834 -2.31422 2 161
+barrier 2.49566 2.41308 2 164
+barrier -7.69673 -1.89493 3.2 76
+barrier 8.16868 2.17811 3 79
+barrier 1.87038 7.59121 3 17
+barrier 6.78109 6.90372 2.8 140
