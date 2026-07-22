@@ -1,10 +1,11 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
-mapsize 15.5 15.5
+mapsize 16 16
 gamemap 1
-terrainfbx C:\Users\becks\OneDrive\Desktop\Project\models\TerrainMap1.fbx
+terrainfbx C:\Users\becks\OneDrive\Desktop\Project\models\Map1Height.fbx
 terrainfbxscale 1
-navfbx models/Map1NavMesh.fbx
+renderfbx C:\Users\becks\OneDrive\Desktop\Project\models\Map1Render.fbx
+navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Map1Nav.fbx
 walkslope 1.73
 maxstep 0.4
 navdensity 5
