@@ -1,0 +1,11 @@
+DESYNC dump  tick=588  localPlayer=1  (raw fixed bits; diff against the other peer's file for the same tick)
+bot 0 o0 x=-1027552 z=967547 vx=0 vz=0 rot=0 | pN=0 pI=0 ptX=0 ptZ=0 wp= | tgt=0 0 0
+bot 1 o0 x=-998061 z=967547 vx=0 vz=0 rot=0 | pN=0 pI=0 ptX=0 ptZ=0 wp= | tgt=0 0 0
+bot 2 o0 x=-1027552 z=997038 vx=0 vz=0 rot=0 | pN=0 pI=0 ptX=0 ptZ=0 wp= | tgt=0 0 0
+bot 3 o0 x=-998061 z=997038 vx=0 vz=0 rot=0 | pN=0 pI=0 ptX=0 ptZ=0 wp= | tgt=0 0 0
+bot 1000 o1 x=1026179 z=-997295 vx=-67344 vz=-53261 rot=-146768 | pN=2 pI=1 ptX=999852 ptZ=-1018108 wp=(1066823,-965031)(999852,-1018108) | tgt=1 999852 -1018108
+bot 1001 o1 x=1007996 z=-1006511 vx=-34952 vz=-57547 rot=-137802 | pN=2 pI=1 ptX=888457 ptZ=-828974 wp=(1008614,-1005517)(888457,-828974) | tgt=1 888457 -828974
+bot 1002 o1 x=1016997 z=-1012000 vx=-80861 vz=-28821 rot=-125355 | pN=2 pI=1 ptX=999852 ptZ=-1018108 wp=(1065789,-994502)(999852,-1018108) | tgt=1 999852 -1018108
+bot 1003 o1 x=1003610 z=-1015585 vx=0 vz=0 rot=-174480 | pN=2 pI=1 ptX=999852 ptZ=-1018108 wp=(1036321,-993475)(999852,-1018108) | tgt=0 999852 -1018108
+bld 0 t0 o0 x=-1012806 z=887593 hp=300
+bld 1 t0 o1 x=1054887 z=-884585 hp=300
