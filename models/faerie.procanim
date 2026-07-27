@@ -1,0 +1,52 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Faerie.fbx
+selected 0
+bone upperLegL UpperLeftLeg
+bone lowerLegL LowerLeftLeg
+bone footL LeftFoot
+bone upperLegR UpperRightLeg
+bone lowerLegR LowerRightLeg
+bone footR RightFoot
+bone upperArmL UpperLeftArm
+bone elbowL LowerLeftArm
+bone handL LeftClaw
+bone upperArmR UpperRightArm
+bone elbowR LowerRightArm
+bone handR RightClaw
+bodybone Body1
+bodybone Body2
+bodybone Body3
+bodybone Head
+bodybone LeftShoulder
+bodybone RightShoulder
+anim
+type 0
+name step
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart 0
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+armBaseDownAngle 90
+armBaseDistance 0.9
+armSwingDeg 35
+armSwingPhaseOffset 0.5
+handFollowForearm 1
+bodyBaseY 0
+bodyGaitY 0.05
+gaitCurve0 0
+gaitCurve1 1
+gaitCurve2 0
+gaitCurve3 -1
+gaitCurve4 0
+gaitCurve5 1
+gaitCurve6 0
+gaitCurve7 -1
+bodyGaitYPhase 0
+playbackSpeed 1
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+endanim

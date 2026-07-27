@@ -1,0 +1,20 @@
+Claude RTS error log
+[fbx] 'models/AttackRobot.fbx': 1 mesh(es), picked one with 344 verts, 11 skin cluster(s)
+[fbx] 'models/WorkRobot.fbx': 1 mesh(es), picked one with 857 verts, 7 skin cluster(s)
+[fbx] 'models/Alien.fbx': 1 mesh(es), picked one with 2181 verts, 10 skin cluster(s)
+[fbx] 'models/Probe.fbx': 1 mesh(es), picked one with 3223 verts, 3 skin cluster(s)
+[fbx] 'models/Imp.fbx': 1 mesh(es), picked one with 1323 verts, 21 skin cluster(s)
+[fbx] 'models/Ogre.fbx': 1 mesh(es), picked one with 1804 verts, 26 skin cluster(s)
+[fbx] 'models/Witch.fbx': 1 mesh(es), picked one with 3407 verts, 20 skin cluster(s)
+[fbx] 'models/Ghost.fbx': 1 mesh(es), picked one with 1733 verts, 15 skin cluster(s)
+[fbx] 'models/Faerie.fbx': 1 mesh(es), picked one with 1910 verts, 22 skin cluster(s)
+[fbx] 'models/Dragon.fbx': 1 mesh(es), picked one with 4033 verts, 34 skin cluster(s)
+[fbx] 'models/RotorDrone.fbx': 1 mesh(es), picked one with 2248 verts, 5 skin cluster(s)
+[fbx] 'models/DogBot.fbx': 1 mesh(es), picked one with 5160 verts, 9 skin cluster(s)
+[fbx] 'models/FighterJet.fbx': 1 mesh(es), picked one with 663 verts, 0 skin cluster(s)
+[fbx] 'models/Bat.fbx': 1 mesh(es), picked one with 1153 verts, 3 skin cluster(s)
+[fbx] 'models/Boar.fbx': 1 mesh(es), picked one with 10362 verts, 7 skin cluster(s)
+[fbx] 'models/Zombie.fbx': 1 mesh(es), picked one with 1698 verts, 19 skin cluster(s)
+[net] direct connect: player 1, local port 7778, peer 127.0.0.1:7777
+[net] P2P CONNECTED to peer - lobby is live.
+[net] direct match started as player 1
