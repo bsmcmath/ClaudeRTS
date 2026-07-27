@@ -1,0 +1,64 @@
+# runtime anim-state overrides; loaded over WalkBaked.inc at startup (editor Save writes this)
+c 5
+s 1 3.666 0 3 0 0 1 0.5 0|Walk|walk
+s 5 8 0 3 0 0 1 1 0|Gather|mine
+s 6 2.454 0 3 0 0 1 1 0|Build|Mine
+s 4 1 0 3 0 0 1 1 0|Attack|Mine
+e 0 0 0 0 0|
+c 6
+s 1 2.843 0 3 0 0 1.43 1 0|Walk|March
+s 4 2.186 0 3.2 1 0 1 1 0|Attack|attack
+e 0 1 -0.00353633 -0.00354147 0.241336|Launcher.L
+e 0.205498 1 0.0331554 -0.000887454 0.27424|Launcher.R
+d 0 50
+d 0.205498 50
+a 1 0 0 1|Launcher.L
+a 1 0 0 1|Launcher.R
+s 0 1 0 3 0 0 1 1 0|Idle|Idle
+s 10 7.6 0.335 3 1 0 1 1 0|Air Attack|AirAttack
+e 0 1 0 0.0728918 0.22695|Turret
+d 0 10
+a 1 0 0 1|Turret
+c 7
+s 1 2.055 0 3 0 0 1 1 0|March|March
+s 0 1 0 3 0 0 1 1 0|Idle|Idle
+s 15 2.055 0 3 1 0 1 1 0|Chase|Chase
+c 8
+s 1 8 0 3 1 0 1 1 0|Run|Run
+s 4 1.773 0.552 3 1 0 1 1 0|Attack|attack
+e 0 0 0 0 0|
+s 0 1 0 3 1 0 1 1 0|Idle|Idle
+s 0 1 0 3 1 0 1 1 0|Idle Crouch|Idle
+c 13
+s 1 1 0 3 1 0 1 1 0|Walk|walk
+s 4 4.19 0 3 1 0 1 1 0|Attack|attack
+c 19
+s 1 1 0 3 0 0 1.5 1 0|Walk|walk
+s 2 1.485 0 3 0 0 3 0.49 0|Fly|fly
+s 3 1.582 0 3 0 0 1 1 0|Hover|hover
+s 13 1 0 3 1 1.25 1 1 0|Liftoff|DragonHover
+s 14 1 0 3 1 0.75 1 1 0|Land|DragonFly
+s 4 1 0 3 1 0 1 1 1|Ground Attack|
+s 11 1 0 3 1 0 1 1 2|Air Attack|
+c 23
+s 2 1 0 3 1 0 1 1 0|Fly|walk
+s 11 1 0 3 1 0 1 1 0|Attack|attack
+e 0 0 0 0 0|
+c 24
+s 1 3.284 0 3 0 0 1.51 1.99 0|Run|run
+s 4 1 0 3 0 0 1 1 0|Attack|attack
+e 0 0 -0.02 0 0|
+s 0 1.27 0 3 0 0 1 1 0|Idle|Idle
+c 25
+s 2 1 0 3 1 0 1 1 0|Fly|walk
+s 11 1 0 3 1 0 1 1 0|Attack|attack
+e 0 0 0 0 0|
+c 28
+c 29
+c 30
+c 31
+s 1 2.79 0 3 1 0 1 1 0|Run|Run
+s 4 1 0 3 1 0 1 1 0|Attack|attack
+e 0 0 0 0 0|
+s 0 1 0 3 1 0 1 1 0|Idle|Idle
+s 7 2 0 3 1 0 1 1 0|Spawn|Spawn

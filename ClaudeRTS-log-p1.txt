@@ -1,5 +1,0 @@
-Claude RTS error log
-[net] direct connect: player 1, local port 7778, peer 127.0.0.1:7777
-[net] direct match started as player 1
-[DESYNC] simulations diverged at tick 576 (local checksum 1b1ad212 != remote d46b7fa9). Divergent subsystem(s): PATH/ROUTE
-[DESYNC] wrote per-entity dump desync_P1_tick576.log - diff it against the other peer's file for tick 576 to find the first divergent bot.

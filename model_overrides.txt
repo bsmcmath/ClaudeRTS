@@ -1,0 +1,6 @@
+# per-category FBX model override (transform editor Pick FBX). "<XCat index> <models/path>", applied at launch.
+5 models/WorkRobot.fbx   # Workbot
+6 models/AttackRobot.fbx   # Attack Bot
+7 models/Ogre.fbx   # Ogre
+8 models/Imp.fbx   # Imp
+24 models/DogBot.fbx   # Dog Bot

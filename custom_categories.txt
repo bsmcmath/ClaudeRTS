@@ -1,0 +1,16 @@
+# category overrides: <index>|<active 0/1>|<kind>|<behFlags w1 f2 canFly4 projectile8 rr16 builder32>|<faction>|<linkCat>|<linkRadius>|<footprint>|<hp>|<modelPath (custom only)>|<name>
+0|1|1|16|0|-1|6|0.42|250||Matrix Core
+2|1|1|0|0|-1|6|0.419998|250||Solar Collector
+3|1|1|16|1|-1|6|0.419998|250||Manifestor
+4|1|1|16|2|-1|6|0.419998|250||Castle Ruins
+12|1|1|0|0|-1|6|0.419998|250||Compute Cluster
+15|1|1|0|2|15|6|0.300003|120||Tree
+16|1|1|0|2|-1|6|0.399994|150||Swamp
+17|1|1|0|2|-1|6|0.419998|250||Hollow
+20|1|1|0|2|-1|6|0.419998|250||Pig Sty
+21|1|1|0|2|-1|6|0.419998|250||Sap Tunnel
+22|1|1|0|2|-1|6|0.419998|250||Dragons Nest
+28|1|3|64|2|-1|6|1|500||Dark Forest
+29|1|3|0|0|-1|6|1|500||Plating Alloy
+30|1|3|0|1|-1|6|1|500||Volcano Bongs
+31|1|0|0|2|-1|6|1|500|models/Zombie.fbx|Zombie
