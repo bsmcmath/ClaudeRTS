@@ -1,0 +1,113 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Imp.fbx
+selected 1
+bone upperLegL UpperLeg.L
+bone lowerLegL LowerLeg.L
+bone footL Foot.L
+bone upperLegR UpperLeg.R
+bone lowerLegR LowerLeg.R
+bone footR Foot.R
+bone upperArmL UpperArm.L
+bone elbowL LowerArm.L
+bone handL Hand.L
+bone upperArmR UpperArm.R
+bone elbowR LowerArm.R
+bone handR Hand.R
+bodybone Body1
+bodybone Body2
+bodybone Body3
+bodybone Head
+bodybone Shoulder.L
+bodybone Shoulder.R
+anim
+type 0
+name March
+strideLength 1.185
+feetSpread 0.365
+feetForward -0.158
+stepHeight 0.233
+legKick 13
+legKickStart -44
+legKickDistance 1
+footKickStart 0
+footKickEnd 9
+hipsFollow 0
+feetFollow 1
+armBaseDownAngle 80
+armBaseDistance 0.9
+armSwingDeg 35
+armSwingPhaseOffset 0.828
+handFollowForearm 0
+bodyBaseY -0.063
+bodyGaitY 0.035
+gaitCurve0 1
+gaitCurve1 -4.37114e-08
+gaitCurve2 -1
+gaitCurve3 1.19249e-08
+gaitCurve4 1
+gaitCurve5 -3.37766e-07
+gaitCurve6 -1
+gaitCurve7 6.63608e-07
+bodyGaitYPhase 0.071
+playbackSpeed 1
+clipDuration 1
+bodycurve Twist
+axis 0 1 0
+curve 1 0.707107 -4.37114e-08 -0.707107 -1 -0.707107 1.19249e-08 0.707107
+w 1.3 0 Body1
+w 15.8 0 Body2
+w 28 0 Body3
+w 0 0 Head
+w 25.6 0 Shoulder.L
+w 25.6 0 Shoulder.R
+endbodycurve
+bodycurve Hunch
+axis 1 0 0
+curve 1 1.2112 1 0.7888 1 1.2112 1 0.7888
+w 0 0 Body1
+w -4.9 0 Body2
+w -13.4 0 Body3
+w -25.5 0 Head
+w -24.3 0 Shoulder.L
+w -25.5 0 Shoulder.R
+endbodycurve
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+armcurve elbow 0 9.6 0 0 0 0 1 0 1 1 1 1 1 1 1 1 curve1
+armcurve handrot 0 1 0 -89.88 -26.12 0 1 0 1 1 1 1 1 1 1 1 curve1
+armcurve handrot 0 1 127.44 0 0 0 0 0 1 1 1 1 1 1 1 1 curve2
+armcurve handrot 0.217 1 45.58 0 0 0 1 0 0 0.707107 1 0.707107 -8.74228e-08 -0.707107 -1 -0.707107 curve3
+endanim
+anim
+type 2
+name clip2
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+armBaseDownAngle 90
+armBaseDistance 0.9
+armSwingDeg 35
+armSwingPhaseOffset 0.5
+handFollowForearm 1
+bodyBaseY 0
+bodyGaitY 0
+gaitCurve0 0
+gaitCurve1 1
+gaitCurve2 0
+gaitCurve3 -1
+gaitCurve4 0
+gaitCurve5 1
+gaitCurve6 0
+gaitCurve7 -1
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+endanim

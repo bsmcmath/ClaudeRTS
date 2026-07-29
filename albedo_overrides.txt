@@ -1,0 +1,3 @@
+# per-category albedo texture (material editor Pick albedo). "<XCat index> <models/path>", applied at launch.
+15 models/TreeColor.png   # Tree
+19 models/Screenshot 2026-05-01 193353.png   # Dragon

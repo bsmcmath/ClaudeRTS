@@ -1,0 +1,59 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Witch.fbx
+selected 0
+bone upperLegL UpperLeftLeg
+bone lowerLegL LowerLeftLeg
+bone footL LeftFoot
+bone upperLegR UpperRightLeg
+bone lowerLegR LowerRightLeg
+bone footR RightFoot
+bone upperArmL UpperLeftArm
+bone elbowL LowerLeftArm
+bone handL LeftClaw
+bone upperArmR UpperRightArm
+bone elbowR LowerRightArm
+bone handR RightClaw
+bodybone Body1
+bodybone Body2
+bodybone Body3
+bodybone Head
+bodybone LeftShoulder
+bodybone RightShoulder
+anim
+type 0
+name Walk
+strideLength 1.351
+feetSpread 0.471
+feetForward -0.309
+stepHeight 0.25
+legKick 21
+legKickStart -34
+legKickDistance 0.975
+footKickStart 0
+footKickEnd 23
+hipsFollow 0
+feetFollow 1
+armBaseDownAngle 81
+armBaseDistance 0.892
+armSwingDeg 1
+armSwingPhaseOffset 0.5
+handFollowForearm 1
+bodyBaseY -0.127
+bodyGaitY 0.024
+gaitCurve0 0
+gaitCurve1 1
+gaitCurve2 0
+gaitCurve3 -1
+gaitCurve4 0
+gaitCurve5 1
+gaitCurve6 0
+gaitCurve7 -1
+bodyGaitYPhase 0.403
+playbackSpeed 1
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+armcurve iktarget 0 1 0 0.32 0.46 2 0 0 1 1 1 1 1 1 1 1 curve1
+armcurve iktarget 0.415 1 0 0 0.38 1 0 0 1 0.707107 -4.37114e-08 -0.707107 -1 -0.707107 1.19249e-08 0.707107 curve2
+armcurve iktarget 0.083 1 0 0 0 1 0 0 0.7 1.34 0.7 0.06 0.7 1.34 0.7 0.06 curve3
+armcurve handrot 0 1 -3.06 0 -76.08 2 1 0 1 1 1 1 1 1 1 1 curve1
+armcurve handrot 0 1 0 -88.44 16.84 1 0 0 1 1 1 1 1 1 1 1 curve2
+endanim

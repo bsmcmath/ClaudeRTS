@@ -1,6 +1,6 @@
 procanim 3
 mesh C:\Users\becks\OneDrive\Desktop\Project\models\Faerie.fbx
-selected 0
+selected 1
 bone upperLegL UpperLeftLeg
 bone lowerLegL LowerLeftLeg
 bone footL LeftFoot
@@ -21,16 +21,18 @@ bodybone LeftShoulder
 bodybone RightShoulder
 anim
 type 0
-name step
-strideLength 0.6
+name idle hop
+strideLength 0
 feetSpread 0.25
 feetForward 0
-stepHeight 0.15
+stepHeight 0
 legKick 0
 legKickStart 0
 legKickDistance 0.9
 footKickStart 0
 footKickEnd 0
+hipsFollow 0
+feetFollow 1
 armBaseDownAngle 90
 armBaseDistance 0.9
 armSwingDeg 35
@@ -49,4 +51,48 @@ gaitCurve7 -1
 bodyGaitYPhase 0
 playbackSpeed 1
 bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+endanim
+anim
+type 0
+name prance
+strideLength 1.161
+feetSpread 0.202
+feetForward -0.107
+stepHeight 0.19
+legKick 36
+legKickStart -29
+legKickDistance 0.9
+footKickStart 0
+footKickEnd -23
+hipsFollow 0
+feetFollow 1
+armBaseDownAngle 78
+armBaseDistance 0.9
+armSwingDeg 42
+armSwingPhaseOffset 0.783
+handFollowForearm 1
+bodyBaseY 0.024
+bodyGaitY 0.036
+gaitCurve0 0
+gaitCurve1 1
+gaitCurve2 0
+gaitCurve3 -1
+gaitCurve4 0
+gaitCurve5 1
+gaitCurve6 0
+gaitCurve7 -1
+bodyGaitYPhase 0.198
+playbackSpeed 1
+bodycurve Twist
+axis 0 1 0
+curve 0 0.707107 1 0.707107 -8.74228e-08 -0.707107 -1 -0.707107
+w -11 0 Body1
+w -0 0 Body2
+w 15.8 0 Body3
+w 1.1 0 Head
+w 13.4 0 LeftShoulder
+w 13.4 0 RightShoulder
+endbodycurve
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+armcurve handrot 0 1 0 -18.26 -55.26 0 1 0 1 1 1 1 1 1 1 1 curve1
 endanim

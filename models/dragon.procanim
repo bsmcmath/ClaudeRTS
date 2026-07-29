@@ -1,0 +1,57 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Dragon.fbx
+selected 0
+bone upperLegL UpperLeftLeg
+bone lowerLegL LowerLeftLeg
+bone footL LeftFoot
+bone upperLegR UpperRightLeg
+bone lowerLegR LowerRightLeg
+bone footR RightFoot
+bone upperArmL UpperLeftArm
+bone elbowL LowerLeftArm
+bone handL LeftClaw
+bone upperArmR UpperRightArm
+bone elbowR LowerRightArm
+bone handR RightClaw
+bodybone Body3
+bodybone Neck
+bodybone LeftShoulder
+bodybone RightShoulder
+bodybone Body2
+bodybone Head
+bodybone Body1
+bodybone LeftHip
+bodybone RightHip
+anim
+type 1
+name Run
+strideLength 1.343
+feetSpread 0.934
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+armBaseDownAngle 90
+armBaseDistance 0.9
+armSwingDeg 0
+armSwingPhaseOffset 0.5
+handFollowForearm 1
+bodyBaseY 0.002
+bodyGaitY 0.05
+gaitCurve0 0
+gaitCurve1 1
+gaitCurve2 0
+gaitCurve3 -1
+gaitCurve4 0
+gaitCurve5 1
+gaitCurve6 0
+gaitCurve7 -1
+bodyGaitYPhase 0
+playbackSpeed 1
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+endanim
