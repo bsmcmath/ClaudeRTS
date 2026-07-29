@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb-engine/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/src/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scriptgen/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scenecook/cmake_install.cmake",
+		"C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/net/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

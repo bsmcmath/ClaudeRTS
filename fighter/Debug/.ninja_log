@@ -1,0 +1,199 @@
+# ninja log v7
+47	65	8066680719499323	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/CMakeFiles/cmake.verify_globs	834b52e9049390ae
+89	153	8065736934346402	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastAssert.cpp.obj	a90b8e031a87d339
+81	171	8065736934276245	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastAlloc.cpp.obj	15d7c35b3c91ad2e
+84	200	8065736934311342	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastArea.cpp.obj	8c35756f4e840de0
+98	216	8065736934436684	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastFilter.cpp.obj	e5623e74c8e19246
+120	238	8065736934657470	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastRasterization.cpp.obj	11cec79e57d2a3b7
+77	256	8065736934236206	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/Recast.cpp.obj	f35f45de0f6aeaf4
+93	273	8065736934396639	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastContour.cpp.obj	395333ea5c22daa2
+104	290	8065736934507008	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastLayers.cpp.obj	887297971e42b34d
+110	320	8065736934562163	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastMesh.cpp.obj	1dc718819f210ad0
+115	338	8065736934617417	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastMeshDetail.cpp.obj	c5ac2e72baafdd11
+126	387	8065736934717754	bb-engine/CMakeFiles/recast.dir/external/recastnavigation/Recast/Source/RecastRegion.cpp.obj	bfb4b99794c19cef
+200	583	8065736935464623	glfw/src/CMakeFiles/glfw.dir/platform.c.obj	8752e72bf60e2dae
+137	632	8065736934833139	glfw/src/CMakeFiles/glfw.dir/init.c.obj	43c164c6cc246ff0
+171	649	8065736935178932	glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	439b5360941c2e8a
+131	667	8065736934777974	glfw/src/CMakeFiles/glfw.dir/context.c.obj	9b93184f400f6261
+217	685	8065736935634901	glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	6b394998bb80c9c0
+154	703	8065736935003591	glfw/src/CMakeFiles/glfw.dir/input.c.obj	184fc3403c151c31
+238	721	8065736935851531	glfw/src/CMakeFiles/glfw.dir/window.c.obj	b6a6e34306bdbfa1
+257	738	8065736936032647	glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	8e8cd600e2864dc6
+274	756	8065736936207188	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	bb7dd9b88136a9d4
+290	775	8065736936360544	glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	c6eeee12ad8b44b2
+320	794	8065736936671047	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	875a74a3170c2e7c
+388	816	8065736937340410	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	c08346c29f5a00bd
+339	837	8065736936852171	glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	e5ed8ad0d9ae14c8
+584	973	8065736939309123	glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	2857fbf0254c5e84
+650	994	8065736939958826	glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	3a75527a1b1af75e
+668	1028	8065736940139160	glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	5b8c170492f0651c
+633	1048	8065736939788502	glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	d42424d4457d5305
+686	1091	8065736940319539	glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	64c5516852f45ee0
+738	1147	8065736940846836	glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	4a45d828611fc866
+721	1171	8065736940675394	glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	9d44a373aa80b8ac
+794	1180	8065736944608839	shaders/blit.frag.spv	bf5dfcc5a45054e5
+794	1180	8065736944608839	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/blit.frag.spv	bf5dfcc5a45054e5
+816	1190	8065736944699374	shaders/ddgi_gather.comp.spv	ad737233a476446c
+816	1190	8065736944699374	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/ddgi_gather.comp.spv	ad737233a476446c
+837	1199	8065736944964860	shaders/ddgi_gather_sw.comp.spv	96f27864e14af4c5
+837	1199	8065736944964860	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/ddgi_gather_sw.comp.spv	96f27864e14af4c5
+974	1250	8065736945606702	shaders/dither.frag.spv	f45c2cb0b96e0454
+974	1250	8065736945606702	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/dither.frag.spv	f45c2cb0b96e0454
+703	1334	8065736940494936	glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	37cc348329a7860a
+994	1345	8065736946122844	shaders/fill.frag.spv	50648c481a7b9b1d
+994	1345	8065736946122844	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/fill.frag.spv	50648c481a7b9b1d
+1048	1355	8065736946475602	shaders/fullscreen.vert.spv	38d13b28e83a6a6f
+1048	1355	8065736946475602	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/fullscreen.vert.spv	38d13b28e83a6a6f
+1028	1377	8065736946500701	shaders/fill.vert.spv	77fbe9be58c9d250
+1028	1377	8065736946500701	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/fill.vert.spv	77fbe9be58c9d250
+1092	1387	8065736946706196	shaders/glass.frag.spv	6c57dbeb3772d55d
+1092	1387	8065736946706196	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/glass.frag.spv	6c57dbeb3772d55d
+1147	1442	8065736947566678	shaders/glass.geom.spv	b39bdf6d95e8e533
+1147	1442	8065736947566678	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/glass.geom.spv	b39bdf6d95e8e533
+1171	1462	8065736947676887	shaders/glass.vert.spv	5a321ebd2b393844
+1171	1462	8065736947676887	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/glass.vert.spv	5a321ebd2b393844
+1199	1471	8065736947631778	shaders/mesh.frag.spv	debcf655cf5c3f56
+1199	1471	8065736947631778	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/mesh.frag.spv	debcf655cf5c3f56
+1180	1491	8065736947952821	shaders/line.frag.spv	9ec685b158811b36
+1180	1491	8065736947952821	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/line.frag.spv	9ec685b158811b36
+1190	1510	8065736948148889	shaders/line.vert.spv	fd1196e98f95d5df
+1190	1510	8065736948148889	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/line.vert.spv	fd1196e98f95d5df
+1250	1571	8065736948874090	shaders/mesh.vert.spv	ce79c8cb229a338f
+1250	1571	8065736948874090	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/mesh.vert.spv	ce79c8cb229a338f
+73	1598	8065736934201171	bb-engine/CMakeFiles/ufbx.dir/external/ufbx/ufbx.c.obj	f61f298930fe355b
+1345	1620	8065736949311836	shaders/mesh_instanced.vert.spv	f728ad6c38c9406
+1345	1620	8065736949311836	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/mesh_instanced.vert.spv	f728ad6c38c9406
+1336	1651	8065736949604020	shaders/mesh_instanced.frag.spv	2c7f1f558f681ab2
+1336	1651	8065736949604020	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/mesh_instanced.frag.spv	2c7f1f558f681ab2
+1377	1726	8065736949906051	shaders/multipass_test.forward.vert.spv	9353dd6edfa8ac82
+1377	1726	8065736949906051	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/multipass_test.forward.vert.spv	9353dd6edfa8ac82
+1462	1739	8065736950612549	shaders/postfx.frag.spv	9c53ce5121691634
+1462	1739	8065736950612549	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/postfx.frag.spv	9c53ce5121691634
+1355	1748	8065736950121542	shaders/multipass_test.forward.frag.spv	388af67c5cea7ff2
+1355	1748	8065736950121542	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/multipass_test.forward.frag.spv	388af67c5cea7ff2
+1387	1757	8065736950101488	shaders/multipass_test.shadow.frag.spv	3738be8599096ab7
+1387	1757	8065736950101488	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/multipass_test.shadow.frag.spv	3738be8599096ab7
+1472	1789	8065736950854489	shaders/rt_trace_test.comp.spv	9855e07b4cc77f7d
+1472	1789	8065736950854489	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/rt_trace_test.comp.spv	9855e07b4cc77f7d
+1491	1805	8065736951074932	shaders/skin.comp.spv	91f17fd16b814a2c
+1491	1805	8065736951074932	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/skin.comp.spv	91f17fd16b814a2c
+1442	1812	8065736950944684	shaders/multipass_test.shadow.vert.spv	adb462b291fd2117
+1442	1812	8065736950944684	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/multipass_test.shadow.vert.spv	adb462b291fd2117
+1510	1829	8065736951367363	shaders/sky.frag.spv	e556bc7858bc3a58
+1510	1829	8065736951367363	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/sky.frag.spv	e556bc7858bc3a58
+1748	1863	8065736950944684	bb-engine/ufbx.lib	be890db9bed6f763
+1571	1871	8065736951829752	shaders/ssaa_down.frag.spv	3b6f60900543a61a
+1571	1871	8065736951829752	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/ssaa_down.frag.spv	3b6f60900543a61a
+1757	1878	8065736951039846	bb-engine/recast.lib	d6b77511307c6bf5
+1789	1905	8065736951357367	glfw/src/glfw3.lib	aa7249cb4c6e9e4e
+776	1927	8065736941222866	bb/CMakeFiles/bb_core.dir/src/Rollback.cpp.obj	cae0e12a5249090b
+1651	1946	8065736952536223	shaders/text.frag.spv	cbf77e31e0d2efef
+1651	1946	8065736952536223	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/text.frag.spv	cbf77e31e0d2efef
+1598	1953	8065736952611347	shaders/stdmat.frag.spv	f806f83cb94cd41e
+1598	1953	8065736952611347	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/stdmat.frag.spv	f806f83cb94cd41e
+1621	1976	8065736952420940	shaders/stdmat.vert.spv	1bdeda5dd196024e
+1621	1976	8065736952420940	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/stdmat.vert.spv	1bdeda5dd196024e
+1726	2017	8065736953170022	shaders/text.vert.spv	30a40e1106d0192b
+1726	2017	8065736953170022	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/text.vert.spv	30a40e1106d0192b
+1739	2031	8065736953305386	shaders/voxelize.comp.spv	82197c7224392fba
+1739	2031	8065736953305386	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/shaders/voxelize.comp.spv	82197c7224392fba
+757	2346	8065736941027290	bb/CMakeFiles/bb_core.dir/src/Clock.cpp.obj	b05c315376bbb21e
+1806	2661	8065736951519021	bb/CMakeFiles/bb.dir/src/Engine.cpp.obj	d02e5b6482f37791
+2347	2689	8065736956937743	bb/bb_core.lib	bea508c6da404268
+1829	2842	8065736951754562	bb/CMakeFiles/bb.dir/src/Window.cpp.obj	5b77cd63c3c0da8
+1954	3098	8065736952999752	bb/CMakeFiles/bb.dir/src/FrameProfiler.cpp.obj	1e48753dba04eb71
+1946	3181	8065736952924650	bb/CMakeFiles/bb.dir/src/Camera.cpp.obj	13c392c232a4ca1b
+1871	3249	8065736952170428	bb/CMakeFiles/bb.dir/src/InputFrame.cpp.obj	a7e88714e894d867
+1863	3431	8065736952095280	bb/CMakeFiles/bb.dir/src/Input.cpp.obj	3a296b6fb968b2c9
+1976	3453	8065736953225169	bb/CMakeFiles/bb.dir/src/Mesh.cpp.obj	fa65067ab5f7237e
+2031	3537	8065736953771339	bb/CMakeFiles/bb.dir/src/Model.cpp.obj	9db8b461ab157c8
+1878	3748	8065736952245558	bb/CMakeFiles/bb.dir/src/Audio.cpp.obj	8c8fc664694b27cd
+1905	3781	8065736952516183	bb/CMakeFiles/bb.dir/src/Compute.cpp.obj	c13095defa799c20
+1928	3979	8065736952744040	bb/CMakeFiles/bb.dir/src/Renderer.cpp.obj	cda4582612fe162f
+2018	4005	8065736953641166	bb/CMakeFiles/bb.dir/src/MeshProxy.cpp.obj	cf39c59432b31585
+3432	4607	8065736967785504	bb/CMakeFiles/bb.dir/src/ShaderState.cpp.obj	4aada14f7146d983
+1812	4937	8065736951589077	bb/CMakeFiles/bb.dir/src/Game.cpp.obj	aa0d4d6210ab0c5f
+2662	4958	8065736960079453	bb/CMakeFiles/bb.dir/src/Scene.cpp.obj	e5d6d7d2df7ec76d
+3099	5103	8065736964456821	bb/CMakeFiles/bb.dir/src/Data.cpp.obj	2b5babe2d7725ed3
+3182	5333	8065736965291028	bb/CMakeFiles/bb.dir/src/DataType.cpp.obj	29bd4b62d3de1bc3
+3537	5495	8065736968843098	bb/CMakeFiles/bb.dir/src/SkinnedModel.cpp.obj	4c6020d5c71ea658
+3453	5710	8065736967995623	bb/CMakeFiles/bb.dir/src/ShaderPasses.cpp.obj	d13cb7fe6c0f6a28
+2843	5770	8065736961894442	bb/CMakeFiles/bb.dir/src/Archive.cpp.obj	9ca45b868952d0fd
+3980	5869	8065736973267704	bb/CMakeFiles/bb.dir/src/ScriptParse.cpp.obj	b8da435902fec250
+3782	5910	8065736971288817	bb/CMakeFiles/bb.dir/src/Script.cpp.obj	704dc94887901aed
+3748	5981	8065736970951981	bb/CMakeFiles/bb.dir/src/SkinnedLoad.cpp.obj	2238a5434e665c25
+4607	6059	8065736979531799	bb/CMakeFiles/bb.dir/src/Image.cpp.obj	aca4882e16a01870
+3249	6092	8065736965959528	bb/CMakeFiles/bb.dir/src/DataStore.cpp.obj	2e7d229bb7565d4d
+2689	6210	8065736960355075	bb/CMakeFiles/bb.dir/src/SceneAssets.cpp.obj	509035cbbefc5baa
+4005	6440	8065736973520207	bb/CMakeFiles/bb.dir/src/SceneCook.cpp.obj	bf1f6e5070eedec9
+5104	6490	8065736984503047	bb/CMakeFiles/bb.dir/src/Frustum.cpp.obj	ca707f75dbb99c93
+4958	6825	8065736983057193	bb/CMakeFiles/bb.dir/src/RenderSort.cpp.obj	ac0d5f969ca67589
+5770	7080	8065736991172194	bb/CMakeFiles/bb.dir/src/Ik.cpp.obj	d5b62dd703e2cf4a
+5496	7109	8065736988420795	bb/CMakeFiles/bb.dir/src/Collision.cpp.obj	7907979229ee41f2
+5710	7129	8065736990564114	bb/CMakeFiles/bb.dir/src/Gizmos.cpp.obj	cd73eacaaab69b59
+6093	7302	8065736994392202	bb/CMakeFiles/bb.dir/src/Paths.cpp.obj	fdad30dd9e0dbf1d
+6060	7658	8065736994066627	bb/CMakeFiles/bb.dir/src/Parallel.cpp.obj	3553c9ea936fd344
+5911	7786	8065736992570913	bb/CMakeFiles/bb.dir/src/NavMeshRecast.cpp.obj	e5481517a43963db
+5982	7908	8065736993276264	bb/CMakeFiles/bb.dir/src/NavQuery.cpp.obj	38baff7688baf690
+5870	7928	8065736992161578	bb/CMakeFiles/bb.dir/src/NavMesh.cpp.obj	29daa99fb3e0b4d9
+5334	8026	8065736986803798	bb/CMakeFiles/bb.dir/src/ComponentsWorld.cpp.obj	8fdaf837d5e17d42
+6210	8132	8065736995568835	bb/CMakeFiles/bb.dir/src/vk/Context.cpp.obj	26974f7db891d82c
+6440	8308	8065736997865005	bb/CMakeFiles/bb.dir/src/vk/RayTracing.cpp.obj	dff73b94edde069
+6490	8380	8065736998366356	bb/CMakeFiles/bb.dir/src/vk/RayTracingScene.cpp.obj	2ac05207e2359197
+4937	8435	8065736982841816	bb/CMakeFiles/bb.dir/src/RenderGraph.cpp.obj	9cae9e8a9a89ba8c
+7109	8543	8065737004559737	bb/CMakeFiles/bb.dir/src/vk/Swapchain.cpp.obj	2e090c4ce1b26833
+7130	8742	8065737004765229	bb/CMakeFiles/bb.dir/src/vk/GpuMesh.cpp.obj	4509e3d83e51a0cc
+6825	8825	8065737001714773	bb/CMakeFiles/bb.dir/src/vk/VoxelScene.cpp.obj	24dd4cb422e74bfa
+7081	8857	8065737004272824	bb/CMakeFiles/bb.dir/src/vk/DdgiVolume.cpp.obj	daa3621a3df23d3b
+8026	9071	8065737013732691	bb/CMakeFiles/bb.dir/src/vk/RenderTarget.cpp.obj	c51b54ef57d451d7
+7303	9099	8065737006493682	bb/CMakeFiles/bb.dir/src/vk/MaterialPipeline.cpp.obj	18ebb67f3705bfc2
+8132	9252	8065737014793193	bb/CMakeFiles/bb.dir/src/vk/Texture.cpp.obj	564eda509d19ed9
+7908	9447	8065737012549633	bb/CMakeFiles/bb.dir/src/vk/SkinnedMesh.cpp.obj	b22ce5b3795e551f
+7786	9788	8065737011330270	bb/CMakeFiles/bb.dir/src/vk/SkinningCompute.cpp.obj	e8499d7eea18b24
+7928	9809	8065737012743409	bb/CMakeFiles/bb.dir/src/vk/TextRenderer.cpp.obj	dadd3ad795dd8634
+8309	9887	8065737016555021	bb/CMakeFiles/bb.dir/src/vk/FullscreenPipeline.cpp.obj	4f79c78e4971b21a
+8742	9920	8065737020889682	bb/CMakeFiles/bb.dir/src/vk/GpuProfiler.cpp.obj	360687d708f0e13a
+7659	10022	8065737010048091	bb/CMakeFiles/bb.dir/src/vk/DrawRecorder.cpp.obj	e0280679287379fe
+8857	10076	8065737022038534	net/CMakeFiles/bb_net.dir/src/UdpSocket.cpp.obj	2d89fdc5b3e112da
+9252	10121	8065737025988972	net/CMakeFiles/bb_net.dir/src/NatPuncher.cpp.obj	3a8de48d2216ecc4
+8381	10139	8065737017271923	bb/CMakeFiles/bb.dir/src/vk/InstancedPipeline.cpp.obj	9201c06e11e219a7
+8436	10174	8065737017829536	bb/CMakeFiles/bb.dir/src/vk/LinePipeline.cpp.obj	4c7efaeeefbaa064
+8543	10242	8065737018900060	bb/CMakeFiles/bb.dir/src/vk/SkyPipeline.cpp.obj	b9e00c265795550b
+9447	10362	8065737027935770	net/CMakeFiles/bb_net.dir/src/NetConnect.cpp.obj	e2c510f2bdc7680c
+9071	10408	8065737024173991	net/CMakeFiles/bb_net.dir/src/RollbackNet.cpp.obj	adc5b0599a11b020
+9099	10538	8065737024459489	net/CMakeFiles/bb_net.dir/src/Matchmaker.cpp.obj	41a6daae90dd9619
+8826	10679	8065737021728021	bb/CMakeFiles/bb.dir/src/rhi/VulkanRHI.cpp.obj	11cef1a420b326ed
+9809	10722	8065737031550037	net/CMakeFiles/bb_net.dir/src/LobbyConnection.cpp.obj	ad6462f00c69ad2a
+10680	10768	8065737040256476	bb/bb.lib	38332c586e4ebfb
+9788	10824	8065737031349013	net/CMakeFiles/bb_net.dir/src/RelayServer.cpp.obj	e1f81d973971f06f
+10825	10859	8065737041701934	net/bb_net.lib	2e5a6f022d4eca35
+9888	11207	8065737032347502	CMakeFiles/cubefighter-server.dir/server/main.cpp.obj	c0199f42502af7ec
+127	1074	8066616285072602	CMakeFiles/cubefighter.dir/src/main.cpp.obj	f59b0a47d747ded7
+11208	11456	8065737045544792	out/cubefighter-server.exe	c1347f4d162ea28c
+762	1216	8066634124782610	out/cubefighter.exe	d364401f7bce4170
+66	335	8066680721674124	build.ninja	4a262b3afdfcbe2e
+66	335	8066680721323530	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721388676	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb-engine/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721398673	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721453772	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/src/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721573966	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721599004	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scriptgen/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721609057	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scenecook/cmake_install.cmake	4a262b3afdfcbe2e
+66	335	8066680721639056	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/net/cmake_install.cmake	4a262b3afdfcbe2e
+96	616	8066595306576839	CMakeFiles/cubefighter.dir/src/CubeSim.cpp.obj	aaf6bf068b0f33fa
+80	977	8066603693120235	CMakeFiles/cubefighter.dir/src/CubeRender.cpp.obj	21f2b5fdd7c15ab2
+123	707	8066616285028984	CMakeFiles/cubefighter.dir/src/CubeNet.cpp.obj	dd56bca301386397
+100	761	8066634118166509	CMakeFiles/cubefighter.dir/src/CubeInput.cpp.obj	847cfd88ad3998f9
+65	307	8066680721674124	build.ninja	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb-engine/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/glfw/src/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/bb/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scriptgen/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/scenecook/cmake_install.cmake	4a262b3afdfcbe2e
+65	307	8066680721674124	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/net/cmake_install.cmake	4a262b3afdfcbe2e
+38	52	8066680722482768	C:/Users/becks/OneDrive/Desktop/Game Engine/projects/cubefighter/build/Debug/CMakeFiles/cmake.verify_globs	834b52e9049390ae
+86	880	8066680722961036	bb/CMakeFiles/bb.dir/src/Audio.cpp.obj	8c8fc664694b27cd
+881	1351	8066680730917048	bb/bb.lib	38332c586e4ebfb
+1352	1814	8066680735623251	out/cubefighter.exe	d364401f7bce4170
