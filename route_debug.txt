@@ -1,0 +1,149 @@
+ROUTE n=3 ratio=2.38617 pathLen=6.2203 straight=2.60681 r=0.117996
+    WP[0]=(-16.3219,15.403)
+    WP[1]=(-17.2656,17.3406)
+    WP[2]=(-13.7154,15.3601)
+  --detour probe--
+  DETOUR corridor: 73 nodes near 3 waypoints; edge cap=20.000u
+  CORNER wall245[3]=(-2.410,5.627) dropped-OFF-MESH
+  CORNER wall242[2]=(-0.644,5.025) MISSING(no reason?)
+  CORNER wall242[3]=(-3.485,7.017) MISSING(no reason?)
+  CORNER wall241[2]=(-3.485,7.017) MISSING(no reason?)
+  CORNER wall241[3]=(-3.887,6.444) MISSING(no reason?)
+  CORNER wall240[2]=(-3.887,6.444) MISSING(no reason?)
+  CORNER wall240[3]=(-2.914,5.762) dropped-OFF-MESH
+  CORNER wall239[2]=(-2.934,6.042) dropped-OFF-MESH
+  CORNER wall239[3]=(-3.366,5.632) buried-by-wall238
+  CORNER wall238[2]=(-3.216,5.769) buried-by-wall239
+  CORNER wall238[3]=(-4.969,4.229) buried-by-wall237
+  CORNER wall237[2]=(-4.800,4.359) buried-by-wall238
+  CORNER wall237[3]=(-6.891,2.965) buried-by-wall236
+  CORNER wall197[2]=(-19.584,-2.006) buried-by-wall198
+  CORNER wall197[3]=(-15.232,5.065) dropped-OFF-MESH
+  CORNER wall196[2]=(-15.463,5.138) dropped-OFF-MESH
+  CORNER wall196[3]=(-15.490,4.698) buried-by-wall197
+  CORNER wall195[2]=(-15.488,4.888) dropped-OFF-MESH
+  CORNER wall182[2]=(-14.581,2.747) buried-by-wall183
+  CORNER wall182[3]=(-14.819,4.239) buried-by-wall181
+  CORNER wall181[2]=(-14.812,4.016) buried-by-wall182
+  CORNER wall181[3]=(-14.628,6.015) dropped-OFF-MESH
+  CORNER wall180[2]=(-14.848,5.838) dropped-OFF-MESH
+  CORNER wall180[3]=(-11.820,5.471) MISSING(no reason?)
+  CORNER wall179[2]=(-11.915,5.441) MISSING(no reason?)
+  CORNER wall178[3]=(-9.216,8.147) dropped-OFF-MESH
+  CORNER wall177[2]=(-9.498,8.147) dropped-OFF-MESH
+  CORNER wall177[3]=(-8.127,6.714) MISSING(no reason?)
+  CORNER wall176[2]=(-8.130,6.714) MISSING(no reason?)
+  CORNER wall176[3]=(-7.616,7.189) MISSING(no reason?)
+  CORNER wall175[2]=(-7.615,7.195) MISSING(no reason?)
+  CORNER wall174[3]=(-9.498,8.963) MISSING(no reason?)
+  CORNER wall173[2]=(-9.479,8.962) MISSING(no reason?)
+  CORNER wall172[3]=(-12.262,6.237) dropped-OFF-MESH
+  CORNER wall171[2]=(-12.007,6.321) dropped-OFF-MESH
+  CORNER wall170[3]=(-16.813,6.916) dropped-OFF-MESH
+  CORNER wall169[2]=(-16.606,6.723) dropped-OFF-MESH
+  CORNER wall168[3]=(-17.764,12.209) buried-by-wall167
+  CORNER wall167[2]=(-17.744,11.985) buried-by-wall168
+  CORNER wall167[3]=(-17.461,17.490) buried-by-wall165
+  CORNER wall166[2]=(-17.567,17.254) buried-by-wall167
+  CORNER wall166[3]=(-17.233,17.583) buried-by-wall165
+  CORNER wall165[2]=(-17.468,17.478) buried-by-wall166
+  CORNER wall165[3]=(-11.926,17.832) buried-by-wall164
+  CORNER wall164[2]=(-12.150,17.847) buried-by-wall165
+  CORNER wall163[3]=(-6.858,16.882) dropped-OFF-MESH
+  CORNER wall162[2]=(-7.054,17.085) dropped-OFF-MESH
+  CORNER wall161[3]=(-6.239,12.078) dropped-OFF-MESH
+  CORNER wall160[2]=(-6.141,12.335) dropped-OFF-MESH
+  CORNER wall159[3]=(-8.302,10.156) MISSING(no reason?)
+  CORNER wall158[2]=(-8.301,10.169) MISSING(no reason?)
+  CORNER wall157[3]=(-6.532,8.287) MISSING(no reason?)
+  CORNER wall156[2]=(-6.529,8.287) MISSING(no reason?)
+  CORNER wall156[3]=(-6.034,8.782) MISSING(no reason?)
+  CORNER wall155[2]=(-6.034,8.786) MISSING(no reason?)
+  CORNER wall155[3]=(-7.487,10.166) dropped-OFF-MESH
+  CORNER wall154[2]=(-7.512,9.886) dropped-OFF-MESH
+  CORNER wall153[3]=(-5.358,11.987) MISSING(no reason?)
+  CORNER wall152[2]=(-5.385,11.902) MISSING(no reason?)
+  CORNER wall152[3]=(-5.816,14.648) dropped-OFF-MESH
+  CORNER wall151[2]=(-6.019,14.459) dropped-OFF-MESH
+  CORNER wall151[3]=(-3.904,13.969) dropped-OFF-MESH
+  CORNER wall150[2]=(-4.054,14.209) dropped-OFF-MESH
+  CORNER wall150[3]=(-4.243,13.384) buried-by-wall149
+  CORNER wall149[2]=(-4.162,13.595) buried-by-wall150
+  CORNER wall149[3]=(-4.982,12.116) MISSING(no reason?)
+  CORNER wall148[2]=(-4.983,12.118) MISSING(no reason?)
+  CORNER wall148[3]=(-4.374,11.772) MISSING(no reason?)
+  CORNER wall147[2]=(-4.373,11.772) MISSING(no reason?)
+  CORNER wall147[3]=(-3.563,13.225) buried-by-wall146
+  CORNER wall146[2]=(-3.666,13.049) buried-by-wall147
+  CORNER wall146[3]=(-3.310,13.632) MISSING(no reason?)
+  CORNER wall145[2]=(-3.311,13.637) MISSING(no reason?)
+  CORNER wall145[3]=(-3.626,13.815) dropped-OFF-MESH
+  CORNER wall144[2]=(-3.522,13.554) dropped-OFF-MESH
+  CORNER wall144[3]=(-3.308,14.238) buried-by-wall143
+  CORNER wall143[2]=(-3.411,14.033) buried-by-wall144
+  CORNER wall143[3]=(-3.109,14.453) buried-by-wall142
+  CORNER wall142[2]=(-3.326,14.312) buried-by-wall143
+  CORNER wall142[3]=(-2.769,14.427) buried-by-wall141
+  CORNER wall125[3]=(-3.719,11.399) MISSING(no reason?)
+  CORNER wall124[2]=(-3.719,11.398) MISSING(no reason?)
+  CORNER wall124[3]=(-3.112,11.049) MISSING(no reason?)
+  CORNER wall123[2]=(-3.112,11.049) MISSING(no reason?)
+  CORNER wall123[3]=(-2.398,12.298) dropped-OFF-MESH
+  CORNER wall101[3]=(-3.889,14.571) dropped-OFF-MESH
+  CORNER wall100[2]=(-3.625,14.638) dropped-OFF-MESH
+  CORNER wall99[3]=(-6.066,15.169) dropped-OFF-MESH
+  CORNER wall98[2]=(-5.872,14.970) dropped-OFF-MESH
+  CORNER wall98[3]=(-5.924,15.272) dropped-OFF-MESH
+  CORNER wall97[2]=(-6.046,15.021) dropped-OFF-MESH
+  CORNER wall97[3]=(-3.531,16.394) buried-by-wall96
+  CORNER wall96[2]=(-3.725,16.306) buried-by-wall97
+  CORNER wall96[3]=(-1.253,17.229) buried-by-wall95
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode30 (-17.266,17.341) deg=15 d=14.146
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode87 (-17.322,17.286) deg=17 d=14.154
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode284 (-15.636,15.123) deg=11 d=11.482
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode302 (-14.710,15.461) deg=3 d=10.986
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode316 (-16.034,14.939) deg=2 d=11.692
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode319 (-15.080,15.052) deg=2 d=11.002
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode321 (-15.447,15.104) deg=1 d=11.321
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode342 (-14.706,15.308) deg=3 d=10.881
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode344 (-3.119,11.049) deg=1 d=4.494
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode354 (-15.883,14.954) deg=2 d=11.578
+  DETOUR-MISSING-EDGE obsnode1 (-6.532,8.126) deg=25 <-> obsnode355 (-15.737,15.053) deg=1 d=11.520
+  DETOUR-MISSING-EDGE obsnode6 (-7.163,9.996) deg=15 <-> obsnode344 (-3.119,11.049) deg=1 d=4.179
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode259 (-15.297,15.677) deg=1 d=9.503
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode283 (-15.859,15.568) deg=2 d=9.994
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode302 (-14.710,15.461) deg=3 d=8.878
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode316 (-16.034,14.939) deg=2 d=9.975
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode319 (-15.080,15.052) deg=2 d=9.092
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode321 (-15.447,15.104) deg=1 d=9.457
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode342 (-14.706,15.308) deg=3 d=8.821
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode354 (-15.883,14.954) deg=2 d=9.832
+  DETOUR-MISSING-EDGE obsnode15 (-6.417,12.293) deg=19 <-> obsnode355 (-15.737,15.053) deg=1 d=9.720
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode259 (-15.297,15.677) deg=1 d=8.191
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode260 (-14.807,15.622) deg=8 d=7.714
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode283 (-15.859,15.568) deg=2 d=8.763
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode302 (-14.710,15.461) deg=3 d=7.644
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode321 (-15.447,15.104) deg=1 d=8.434
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode342 (-14.706,15.308) deg=3 d=7.668
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode354 (-15.883,14.954) deg=2 d=8.891
+  DETOUR-MISSING-EDGE obsnode24 (-7.179,16.769) deg=21 <-> obsnode355 (-15.737,15.053) deg=1 d=8.728
+  DETOUR-MISSING-EDGE obsnode26 (-5.136,12.074) deg=21 <-> obsnode344 (-3.119,11.049) deg=1 d=2.262
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> obsnode62 (-12.206,6.494) deg=16 d=11.968
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> obsnode85 (-8.456,10.166) deg=24 d=11.362
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> obsnode89 (-9.484,9.114) deg=28 d=11.324
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> obsnode90 (-7.453,7.189) deg=26 d=14.119
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode187 (-8.115,9.948) deg=14 d=11.764
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode188 (-7.983,9.803) deg=14 d=11.957
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode199 (-9.732,8.766) deg=18 d=11.414
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode200 (-9.873,8.638) deg=19 d=11.419
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode201 (-7.785,7.369) deg=18 d=13.759
+  DETOUR-MISSING-EDGE obsnode30 (-17.266,17.341) deg=15 <-> wallnode202 (-7.927,7.505) deg=16 d=13.562
+  DETOUR-MISSING-EDGE-COUNT=243  (missing shortcut -> construction/patch gap)
+  DETOUR-GRAZE-EDGE-COUNT=0  (no grazing-width gaps -> detour is genuinely too tight / terrain-forced)
+  --true-circle-- circles=24
+    circle[0] c=(-15.9884,15.2659) r=0.3298 tangNodes=7
+    circle[1] c=(-15.5119,15.4274) r=0.3298 tangNodes=5
+    circle[2] c=(-15.0284,15.3779) r=0.3298 tangNodes=6
+    WP[0]=(-16.3219,15.4030) onCircle=0 err=0.0308
+    WP[1]=(-17.2656,17.3406) onCircle=-1 err=0.0000
+    WP[2]=(-13.7154,15.3601) onCircle=-1 err=0.0000

@@ -4,7 +4,8 @@ mapsize 10 10
 gamemap 1
 terrainfbx models/EmptyMap.fbx
 terrainfbxscale 1
-renderfbx models/EmptyMap.fbx
+renderfbx models/EmptyMap_1.fbx
+terrainmat 0.0931373 0.0931373 0.0931373 1|Plane||0
 navfbx C:\Users\becks\OneDrive\Desktop\Project\models\EmptyMap.fbx
 walkslope 1.73
 maxstep 0.4
@@ -14,3 +15,7 @@ terrainblur 0
 navmesh 324d504e040000000000f6ff00000a000000000000000a0000000a000000000000000a000000f6ff000000000000f6ff0000f6ff00000000020000000300000000000000020000000100000001000000ffffffffffffffff0300000002000000000000000300000000000000ffffffffffffffff
 base 0 -3.16506 2.52761 33.4745
 base 1 1.77537 -1.75091 229.152
+landedge 10 10 -10 10
+landedge -10 10 -10 -10
+landedge -10 -10 10 -10
+landedge 10 -10 10 10

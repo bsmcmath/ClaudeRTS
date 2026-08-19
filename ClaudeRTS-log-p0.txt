@@ -1,21 +1,11 @@
 Claude RTS error log
-[fbx] 'models/AttackRobot.fbx': 1 mesh(es), picked one with 344 verts, 11 skin cluster(s)
-[fbx] 'models/WorkRobot.fbx': 1 mesh(es), picked one with 857 verts, 7 skin cluster(s)
-[fbx] 'models/Alien.fbx': 1 mesh(es), picked one with 2181 verts, 10 skin cluster(s)
-[fbx] 'models/Probe.fbx': 1 mesh(es), picked one with 3223 verts, 3 skin cluster(s)
-[gltf] 'models/Imp.gltf': picked mesh with 7926 verts, 21 joint(s)
 [gltf] 'models/ogre.gltf': picked mesh with 10812 verts, 26 joint(s)
+[gltf] 'models/Imp.gltf': picked mesh with 1638 verts, 21 joint(s)
+[gltf] 'models/Alien.gltf': picked mesh with 13044 verts, 12 joint(s)
 [gltf] 'models/Witch.gltf': picked mesh with 20406 verts, 20 joint(s)
-[fbx] 'models/Ghost.fbx': 1 mesh(es), picked one with 1733 verts, 15 skin cluster(s)
 [gltf] 'models/faerie.gltf': picked mesh with 11424 verts, 22 joint(s)
 [gltf] 'models/Dragon.gltf': picked mesh with 24186 verts, 34 joint(s)
-[fbx] 'models/RotorDrone.fbx': 1 mesh(es), picked one with 2248 verts, 5 skin cluster(s)
-[fbx] 'models/DogBot.fbx': 1 mesh(es), picked one with 5160 verts, 9 skin cluster(s)
-[fbx] 'models/FighterJet.fbx': 1 mesh(es), picked one with 663 verts, 0 skin cluster(s)
-[fbx] 'models/Bat.fbx': 1 mesh(es), picked one with 1153 verts, 3 skin cluster(s)
-[fbx] 'models/Boar.fbx': 1 mesh(es), picked one with 10362 verts, 7 skin cluster(s)
-[fbx] 'models/Tree.fbx': 1 mesh(es), picked one with 930 verts, 0 skin cluster(s)
-[fbx] 'models/Zombie.fbx': 1 mesh(es), picked one with 1698 verts, 19 skin cluster(s)
-[fbx] 'models/Bush.fbx': 1 mesh(es), picked one with 92 verts, 0 skin cluster(s)
+[vat] bot VAT bake: 0 categories, 0 vec4 (0.00 MB)
 [net] direct connect: player 0, local port 7777, peer 127.0.0.1:7778
 [net] direct match started as player 0
+[load] 'Loading match...' worker=592ms terrainUpload=188ms textures=108ms(3) total=889ms animFrames=71

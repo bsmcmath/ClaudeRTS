@@ -1,0 +1,302 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Bots\Alien\Alien.fbx
+selected 2
+bone upperLegL UpperLeftLeg
+bone lowerLegL LowerLeftLeg
+bone footL LeftFoot
+bone upperLegR UpperRightLeg
+bone lowerLegR LowerRightLeg
+bone footR RightFoot
+bone upperArmL LeftArm
+bone upperArmR RightArm
+bodybone Body
+bodybone Head
+bodybone Shoulder.L
+bodybone Shoulder.R
+anim
+type 0
+name run
+strideLength 0.836
+feetSpread 0.25
+feetForward -0.092
+stepHeight 0.192
+legKick 35
+legKickStart -15
+legKickDistance 0.9
+footKickStart 0
+footKickEnd -16
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY -0.081
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 1 65 0.856 0.9 50
+bodycurve twist
+axis 0 1 0
+bcmag 24 0.253
+bclegs 1
+curve 0 8 0 0 0.125 0.707107 0.25 1 0.375 0.707107 0.5 -8.74228e-08 0.625 -0.707107 0.75 -1 0.875 -0.707107
+phasecurve 1 2 0 0 1 1
+w 1 0 Body
+w 0 0 Head
+w 0.51 0 Shoulder.L
+w 0.62 0 Shoulder.R
+endbodycurve
+armrotcurve arm1
+axis 0 -0.42 1
+bcmag -67 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 LeftArm
+w 1 0 RightArm
+endarmrotcurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name drop
+mode 1
+phase 0
+mag 0.1
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 16 0 1 0.0625 0.707107 0.125 -4.37114e-08 0.1875 -0.707107 0.25 -1 0.3125 -0.707107 0.375 1.19249e-08 0.4375 0.707107 0.5 1 0.5625 0.707107 0.625 -3.37766e-07 0.6875 -0.707107 0.75 -1 0.8125 -0.707107 0.875 6.63608e-07 0.9375 0.707107
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+endanim
+anim
+type 2
+name Idle
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY 0
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 1
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 1 35 0.5 0.9 62
+armrotcurve arm1
+axis 0 -0.32 1
+bcmag -59 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 LeftArm
+w 1 0 RightArm
+endarmrotcurve
+armrotcurve arm2
+axis 0 0 1
+bcmag 2 0
+curve 0 16 0 1 0.0625 0.707107 0.125 -4.37114e-08 0.1875 -0.707107 0.25 -1 0.3125 -0.707107 0.375 1.19249e-08 0.4375 0.707107 0.5 1 0.5625 0.707107 0.625 -3.37766e-07 0.6875 -0.707107 0.75 -1 0.8125 -0.707107 0.875 6.63608e-07 0.9375 0.707107
+phasecurve 1 2 0 0 1 1
+w 1 0 LeftArm
+w 1 0 RightArm
+endarmrotcurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0
+mag -0.02
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+bodyposcurve
+name pos2
+mode 1
+phase 0
+mag 0.08
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 16 0.0125 -0.484 0.075 -0.154017 0.1375 -0.0173333 0.2 -0.154017 0.2625 -0.484 0.325 -0.813983 0.3875 -0.950667 0.45 -0.813983 0.5125 -0.484 0.575 -0.154017 0.6375 -0.0173333 0.7 -0.154017 0.7625 -0.484 0.825 -0.813983 0.8875 -0.950667 0.95 -0.813983
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+bodyposcurve
+name pos3
+mode 0
+phase 0
+mag 1
+affect 0
+closed 0
+xz 0 2 -0.06 0 0.085 0
+yc 0 2 0 0 0.5 0
+phasecurve 0 9 0 0.949333 0.125 0.817336 0.25 0.498667 0.375 0.179997 0.5 0.048 0.625 0.179997 0.75 0.498667 0.875 0.817336 1 0.954741
+endbodyposcurve
+armcurve legik
+name curve1
+phase 0
+mag -0.1
+axis 0 0 1
+side 0 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve legik
+name curve2
+phase 0
+mag 0.08
+axis 1 0 0
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+endanim
+anim
+type 2
+name Shoot
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY 0
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 1 35 0.5 0.9 42
+bodycurve curve1
+axis 0 1 0
+bcmag 42 0
+bclegs 1
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 1 0 Body
+w -0.01 0 Head
+w 0.51 0 Shoulder.L
+w 1 0 Shoulder.R
+endbodycurve
+bodycurve recoil
+axis 1 0 0
+bcmag 11 0
+bclegs 0
+curve 0 5 0 0 0.125 0.707107 0.25 1 0.378125 0.663107 0.490625 0.114227
+phasecurve 1 2 0 0 1 1
+w 1 0 Body
+w 0.16 0 Head
+w -1 0 Shoulder.L
+w -1 0 Shoulder.R
+endbodycurve
+armrotcurve arm1
+axis 0 1 0
+bcmag 51 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 LeftArm
+w 1 0 RightArm
+endarmrotcurve
+armrotcurve arm2
+axis 1 0 0
+bcmag 34 0
+curve 0 5 0 0 0.04375 0.619107 0.140625 1 0.315625 0.646369 0.50625 0.0282978
+phasecurve 1 2 0 0 1 1
+w -0.27 0 LeftArm
+w 1 0 RightArm
+endarmrotcurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0
+mag -0.04
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+armcurve legik
+name curve1
+phase 0
+mag -0.06
+axis 0 0 1
+side 0 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve footrot
+name curve1
+phase 0
+mag 29.36
+axis 0 1 0
+side 1 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+endanim

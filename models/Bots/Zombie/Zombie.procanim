@@ -1,0 +1,231 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Bots\Zombie\Zombie.fbx
+selected 1
+bone upperLegL UpperLeg.L
+bone lowerLegL LowerLeg.L
+bone footL Foot.L
+bone upperLegR UpperLeg.R
+bone lowerLegR LowerLeg.R
+bone footR Foot.R
+bone upperArmL UpperArm.L
+bone elbowL LowerArm.L
+bone handL Hand.L
+bone upperArmR UpperArm.R
+bone elbowR LowerArm.R
+bone handR Hand.R
+bodybone Body1
+bodybone Body2
+bodybone Body3
+bodybone Head
+anim
+type 0
+name running
+strideLength 0.887
+feetSpread 0.25
+feetForward -0.106
+stepHeight 0.185
+legKick 21
+legKickStart -21
+legKickDistance 0.988
+footKickStart 0
+footKickEnd -15
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY -0.062
+bodyGaitY 0
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 0 0.5 0.9 90
+bodycurve hunch
+axis 1 0 0
+bcmag -17 0
+bclegs 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0.51 0 Body1
+w 0.76 0 Body2
+w 1 0 Body3
+w 0.51 0 Head
+endbodycurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0.135
+mag 0.06
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 16 0 1 0.0625 0.707107 0.125 -4.37114e-08 0.1875 -0.707107 0.25 -1 0.3125 -0.707107 0.375 1.19249e-08 0.4375 0.707107 0.5 1 0.5625 0.707107 0.625 -3.37766e-07 0.6875 -0.707107 0.75 -1 0.8125 -0.707107 0.875 6.63608e-07 0.9375 0.707107
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+armcurve iktarget
+name curve1
+phase 0
+mag 0.92
+axis 0.2 1.42 1.6
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+endanim
+anim
+type 2
+name Idle
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 0
+footFollowShinR 0
+bodyBaseY -0
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 35 0.5 0.9 90
+bodycurve hunch
+axis 1 0 0
+bcmag -13 0
+bclegs 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0.49 0 Body1
+w 0.76 0 Body2
+w 1 0 Body3
+w 0.51 0 Head
+endbodycurve
+bodycurve curve2
+axis 0 0 1
+bcmag 20 0
+bclegs 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body1
+w 0 0 Body2
+w 0 0 Body3
+w 1 0 Head
+endbodycurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0
+mag -0.02
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+bodyposcurve
+name pos2
+mode 0
+phase 0
+mag 0.22
+affect 0
+closed 1
+xz 0 13 -0.015 -0.135 0.1 0.02 -0.125 -0.01 0.095 0.035 -0.145 0.05 0.055 0.03 -0.075 -0.12 0.11 0.035 0.03 0.075 -0.14 0.025 0.08 -0.02 -0.11 -0.055 0.095 0.025
+yc 0 2 0 0 0.5 0
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+armcurve elbow
+name curve1
+phase 0
+mag 1
+axis 1 0.24 0
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve iktarget
+name curve1
+phase 0
+mag 0.94
+axis 0.12 1 1
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve kneepole
+name curve1
+phase 0
+mag 0.32
+axis 1 0 0
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve legik
+name curve1
+phase 0
+mag -0.04
+axis 1 0 0
+side 0 0 0
+leftneg 1 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve footrot
+name curve1
+phase 0
+mag -11.14
+axis 0 1 0
+side 0 0 0
+leftneg 0 1 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+endanim

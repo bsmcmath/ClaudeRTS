@@ -1,3 +1,13 @@
 # Runtime files (regenerated when the game runs)
 ClaudeRTS-log.txt
+ClaudeRTS-log*.txt
 config.txt
+
+# Mesh cache: rebuilt by the game from the models on first run (200+ MB .mbin files - over GitHub's 100 MB/file limit).
+# Anyone who runs the build regenerates their own, so it never needs to ship.
+meshcache/
+*.mbin
+
+# Other runtime-generated files
+*.dmp
+perframe_*.log

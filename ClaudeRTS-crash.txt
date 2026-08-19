@@ -1,0 +1,35 @@
+
+=== CRASH === code=0xC0000005 addr=00007FF68583A24F
+  access violation: READ at 0x0000020A1C760588
+
+=== CRASH === code=0xC0000005 addr=00007FF68583A276
+  access violation: READ at 0xFFFFFFFFFFFFFFFF
+
+=== CRASH === code=0xC0000005 addr=00007FF65C0BA24F
+  access violation: READ at 0x0000014A7365B848
+
+=== CRASH === code=0xC0000005 addr=00007FF65C0BA286
+  access violation: READ at 0xFFFFFFFFFFFFFFF0
+  [00] obstgraph::VisGraph::addObstacle + 0x976  (C:\Users\becks\OneDrive\Desktop\Project\src\VisGraph.h:529)
+  [01] obstgraph::VisGraphCache::reconcile + 0x2E4  (C:\Users\becks\OneDrive\Desktop\Project\src\VisGraph.h:1003)
+  [02] std::_Func_impl_no_alloc<`Application::computeClientRoutes'::`1'::<lambda_4>,void,int>::_Do_call + 0x37  (C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional:1009)
+  [03] parallelutil::ThreadPool::workerLoop + 0x109  (C:\Users\becks\OneDrive\Desktop\Project\src\Parallel.h:77)
+  [04] std::thread::_Invoke<std::tuple<`parallelutil::ThreadPool::ThreadPool'::`1'::<lambda_1> >,0> + 0x11  (C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\thread:61)
+  [05] wcsrchr + 0x150
+  [06] BaseThreadInitThunk + 0x17
+  [07] RtlUserThreadStart + 0x2C
+
+=== CRASH === 2026-08-13 15:16:35 code=0xC0000005 addr=00007FF6910BA2E6
+  access violation: READ at 0xFFFFFFFFFFFFFFFF
+
+=== CRASH === 2026-08-13 15:16:35 code=0xC0000005 addr=00007FF6910BA2E6
+  access violation: READ at 0xFFFFFFFFFFFFFFF0
+
+=== CRASH === 2026-08-15 17:04:08 code=0xC0000005 addr=00007FF660F71783
+  access violation: READ at 0x000001A088A5F10A
+
+=== CRASH === 2026-08-18 02:39:14 code=0xC0000005 addr=00007FF6845F2513
+  access violation: READ at 0x000001D9979640AA
+
+=== CRASH === 2026-08-18 15:14:04 code=0xC0000005 addr=00007FF7E1032713
+  access violation: READ at 0x000001C62F40323A

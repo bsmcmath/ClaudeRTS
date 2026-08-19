@@ -1,6 +1,6 @@
 procanim 3
 mesh C:\Users\becks\OneDrive\Desktop\Project\models\Dragon.fbx
-selected 0
+selected 1
 bone upperLegL UpperLeftLeg
 bone lowerLegL LowerLeftLeg
 bone footL LeftFoot
@@ -22,11 +22,281 @@ bodybone Head
 bodybone Body1
 bodybone LeftHip
 bodybone RightHip
+bodybone LeftWing1
+bodybone LeftWing2
+bodybone LeftWing3
+bodybone RightWing1
+bodybone RightWing2
+bodybone RightWing3
+anim
+type 1
+name Walk
+strideLength 1.343
+feetSpread 0.934
+feetForward 0
+stepHeight 0.509
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY 0.002
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 0 0.5 0.9 90
+bodycurve curve1
+axis 1 0 0
+bcmag 9 0
+curve 0 16 0 0 0.0625 0.707107 0.125 1 0.1875 0.707107 0.25 -8.74228e-08 0.3125 -0.707107 0.375 -1 0.4375 -0.707107 0.5 1.74846e-07 0.5625 0.707107 0.625 1 0.6875 0.707106 0.75 -2.38498e-08 0.8125 -0.707107 0.875 -1 0.9375 -0.707107
+phasecurve 1 2 0 0 1 1
+w 1 0.2 Body3
+w 1 0.24 Neck
+w 1 0.2 LeftShoulder
+w 1 0.2 RightShoulder
+w 0.7 0.15 Body2
+w 0.41 0.28 Head
+w 0.43 0.11 Body1
+w 0.49 0 LeftHip
+w 0.49 0 RightHip
+w 1 0.26 LeftWing1
+w 1 0.26 LeftWing2
+w 1 0.26 LeftWing3
+w 1 0.26 RightWing1
+w 1 0.26 RightWing2
+w 1 0.26 RightWing3
+endbodycurve
+bodycurve wings
+axis 0 1 0
+bcmag 67 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0.2 0 LeftWing1
+w 0.49 0 LeftWing2
+w 1 0 LeftWing3
+w -0.21 0 RightWing1
+w -0.51 0 RightWing2
+w -1 0 RightWing3
+endbodycurve
+bodycurve wings2
+axis 0 0 1
+bcmag 33 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 1 0 LeftWing1
+w -1 0 LeftWing2
+w 0 0 LeftWing3
+w -1 0 RightWing1
+w 1 0 RightWing2
+w 0 0 RightWing3
+endbodycurve
+bodycurve wings3
+axis 0 0 1
+bcmag 71 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0 0 LeftWing1
+w -0.49 0 LeftWing2
+w -1 0 LeftWing3
+w 0 0 RightWing1
+w 0.51 0 RightWing2
+w 1 0 RightWing3
+endbodycurve
+bodyposxz 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0.162
+mag 0.38
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 16 0.003125 -0.425333 0.065625 -0.227343 0.128125 -0.145333 0.190625 -0.227343 0.253125 -0.425333 0.315625 -0.623323 0.378125 -0.705333 0.440625 -0.623323 0.503125 -0.425333 0.565625 -0.227343 0.628125 -0.145333 0.690625 -0.227344 0.753125 -0.425333 0.815625 -0.623323 0.878125 -0.705333 0.940625 -0.623323
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+endanim
 anim
 type 1
 name Run
 strideLength 1.343
 feetSpread 0.934
+feetForward 0
+stepHeight 0.509
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+quadPhaseBackL 0.249
+quadPhaseBackR 0
+quadPhaseFrontL 0.53
+quadPhaseFrontR 0.746
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY -0.098
+bodyGaitY 0
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipLoop 0
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 0 0.5 0.9 90
+bodycurve curve1
+axis 1 0 0
+bcmag 15 0.751
+curve 0 8 0 0 0.125 0.707107 0.25 1 0.375 0.707107 0.5 -8.74228e-08 0.625 -0.707107 0.75 -1 0.875 -0.707107
+phasecurve 1 2 0 0 1 1
+w 1 0 Body3
+w 1 0.76 Neck
+w 1 0 LeftShoulder
+w 1 0 RightShoulder
+w 0.7 0.24 Body2
+w 0.27 0.23 Head
+w 1 0.5 Body1
+w 1 0.5 LeftHip
+w 1 0.5 RightHip
+w 1 0 LeftWing1
+w 0.54 0.26 LeftWing2
+w 0.54 0.52 LeftWing3
+w 1 0 RightWing1
+w 0.54 0.26 RightWing2
+w 0.54 0.52 RightWing3
+endbodycurve
+bodycurve wings
+axis 0 1 0
+bcmag 67 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0.2 0 LeftWing1
+w 0.49 0 LeftWing2
+w 1 0 LeftWing3
+w -0.21 0 RightWing1
+w -0.51 0 RightWing2
+w -1 0 RightWing3
+endbodycurve
+bodycurve wings2
+axis 0 0 1
+bcmag 33 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 1 0 LeftWing1
+w -1 0 LeftWing2
+w 0 0 LeftWing3
+w -1 0 RightWing1
+w 1 0 RightWing2
+w 0 0 RightWing3
+endbodycurve
+bodycurve wings3
+axis 0 0 1
+bcmag 71 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0 0 LeftWing1
+w -0.49 0 LeftWing2
+w -1 0 LeftWing3
+w 0 0 RightWing1
+w 0.51 0 RightWing2
+w 1 0 RightWing3
+endbodycurve
+bodyposxz 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0.249
+mag 0.32
+affect 0
+closed 1
+xz 0 2 0 0 0 0
+yc 0 8 0.003125 -0.396 0.128125 -0.122585 0.253125 -0.00933337 0.378125 -0.122585 0.503125 -0.396 0.628125 -0.669415 0.753125 -0.782667 0.878125 -0.669415
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+endanim
+anim
+type 2
+name Flying
+strideLength 0.6
+feetSpread 0.25
 feetForward 0
 stepHeight 0.15
 legKick 0
@@ -36,22 +306,179 @@ footKickStart 0
 footKickEnd 0
 hipsFollow 0
 feetFollow 1
-armBaseDownAngle 90
-armBaseDistance 0.9
-armSwingDeg 0
-armSwingPhaseOffset 0.5
-handFollowForearm 1
-bodyBaseY 0.002
+quadPhaseBackL 0
+quadPhaseBackR 0.5
+quadPhaseFrontL 0.5
+quadPhaseFrontR 0
+handFollowForearmL 1
+handFollowForearmR 1
+footFollowShinL 1
+footFollowShinR 1
+bodyBaseY 0
 bodyGaitY 0.05
-gaitCurve0 0
-gaitCurve1 1
-gaitCurve2 0
-gaitCurve3 -1
-gaitCurve4 0
-gaitCurve5 1
-gaitCurve6 0
-gaitCurve7 -1
 bodyGaitYPhase 0
 playbackSpeed 1
-bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+clipDuration 1
+clipLoop 1
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 0 3 0 0 1 1 0.5 0.572
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 35 0.5 0.564 86
+legswing 0 35 0.5 0.232 90
+bodycurve pose
+axis 1 0 0
+bcmag 27 0
+curve 0 2 0 1 0.5 1
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w -1 0 Body1
+w -1 0 LeftHip
+w -1 0 RightHip
+w -1 0 LeftWing1
+w -1 0 LeftWing2
+w -1 0 LeftWing3
+w -1 0 RightWing1
+w -1 0 RightWing2
+w -1 0 RightWing3
+endbodycurve
+bodycurve wing1
+axis 0 0 1
+bcmag 45 0.1
+curve 0 7 0 1 0.178125 0.82444 0.25 -4.37114e-08 0.3375 -0.839107 0.68125 -0.853773 0.75 1.19249e-08 0.821875 0.86844
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 1 0.5 LeftWing1
+w -0 0 LeftWing2
+w 0 0 LeftWing3
+w -1 0.5 RightWing1
+w 0 0 RightWing2
+w 0 0 RightWing3
+endbodycurve
+bodycurve wing2
+axis 0 0 1
+bcmag 64 0.498
+curve 0 8 0 1 0.228125 0.38444 0.35 -0.264 0.4625 -0.69244 0.59375 -0.941333 0.653125 -0.56044 0.746875 0.234667 0.875 0.795107
+phasecurve 0 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0 0 LeftWing1
+w 1 0 LeftWing2
+w 0 0 LeftWing3
+w 0 0 RightWing1
+w -1 0 RightWing2
+w 0 0 RightWing3
+endbodycurve
+bodycurve wing3
+axis 0 0 1
+bcmag 124 0.306
+curve 0 8 0 0.486667 0.078125 0.179107 0.196875 -0.557333 0.34375 -0.971107 0.5 -1 0.571875 -0.457773 0.66875 0.234667 0.78125 0.56044
+phasecurve 1 2 0 0 1 1
+w 0 0 Body3
+w 0 0 Neck
+w 0 0 LeftShoulder
+w 0 0 RightShoulder
+w 0 0 Body2
+w 0 0 Head
+w 0 0 Body1
+w 0 0 LeftHip
+w 0 0 RightHip
+w 0 0 LeftWing1
+w 0 0 LeftWing2
+w 1 0 LeftWing3
+w 0 0 RightWing1
+w 0 0 RightWing2
+w -1 0 RightWing3
+endbodycurve
+bodycurve hunch
+axis 1 0 0
+bcmag 20 0.711
+curve 0 8 0 0 0.075 0.69244 0.1875 1 0.315625 0.69244 0.440625 -0.044 0.575 -0.707107 0.740625 -1 0.875 -0.707107
+phasecurve 1 2 0 0 1 1
+w 0.54 0.45 Body3
+w 0.68 0.6 Neck
+w 0.49 0.45 LeftShoulder
+w 0.49 0.46 RightShoulder
+w 0.51 0.33 Body2
+w 0.49 0.75 Head
+w 0.25 0.15 Body1
+w 0.27 0 LeftHip
+w 0.27 0 RightHip
+w 0 0 LeftWing1
+w 0 0 LeftWing2
+w 0 0 LeftWing3
+w 0 0 RightWing1
+w 0 0 RightWing2
+w 0 0 RightWing3
+endbodycurve
+bodyposxz 0 2 0 0 0 0
+bodyposcurve
+name pos1
+mode 1
+phase 0.34
+mag 0.18
+affect 1
+closed 1
+xz 0 2 0 0 0 0
+yc 0 8 0 0 0.059375 0.677773 0.15625 1 0.296875 0.707107 0.459375 -0.0747951 0.60625 -0.7664 0.790625 -1.01424 0.925 -0.736649
+phasecurve 1 2 0 0 1 1
+endbodyposcurve
+armcurve elbow
+name curve1
+phase 0
+mag 1.96
+axis 0 0 1
+side 0 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve legik
+name curve1
+phase 0
+mag -0.9
+axis 0 0 1
+side 0 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
+armcurve footrot
+name curve1
+phase 0
+mag -32
+axis 1 0 0
+side 0 0 0
+leftneg 0 0 0
+posmode 0 1
+curve 0 2 0 1 0.5 1
+xz 0 2 0 0 0 0
+phasecurve 1 2 0 0 1 1
+endarmcurve
 endanim
