@@ -1,0 +1,94 @@
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+HEIGHT mesh Y=[0.000, 0.000]  RENDER mesh Y=[0.000, 0.000]  gap(min)=0.000 gap(max)=0.000  fbxScale=1.000 blur=0.000 min=0.000
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+GRIDvsMESH  A=heightMesh-grid mean=0.0000 [0.0000,0.0000]   B=renderMesh-grid mean=0.0000 [0.0000,0.0000]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)
+HEIGHT mesh Y=[-2.400, 2.400]  RENDER mesh Y=[-4.959, 3.727]  gap(min)=-2.559 gap(max)=1.327  fbxScale=1.000 blur=0.000 min=0.100
+GRIDvsMESH  A=heightMesh-grid mean=-0.8572 [-4.8000,2.3309]   B=renderMesh-grid mean=1.3866 [-7.1939,3.7268]   (A>0 grid bakes low vs its source; B>0 render mesh above grid -> structures sink by B)

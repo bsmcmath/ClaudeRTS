@@ -33,3 +33,45 @@
 
 === CRASH === 2026-08-18 15:14:04 code=0xC0000005 addr=00007FF7E1032713
   access violation: READ at 0x000001C62F40323A
+
+=== CRASH === 2026-08-20 22:29:04 code=0xC0000005 addr=00007FF6D2205D8A
+  access violation: WRITE at 0x0000000000000000
+  [00] Application::recordCommandBuffer + 0xA5A  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_record_cmd.cpp:285)
+  [01] Application::drawFrame + 0x360  (C:\Users\becks\OneDrive\Desktop\Project\src\App.h:4055)
+  [02] Application::warmRenderAtStartup + 0xF0  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_menus_ui.cpp:377)
+  [03] Application::run + 0x568  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_lifecycle.cpp:61)
+  [04] main + 0x177C  (C:\Users\becks\OneDrive\Desktop\Project\src\main.cpp:470)
+  [05] __scrt_common_main_seh + 0x10F  (D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288)
+  [06] BaseThreadInitThunk + 0x17
+  [07] RtlUserThreadStart + 0x2C
+
+=== CRASH === 2026-08-20 22:29:21 code=0xC0000005 addr=00007FF6D2205D8A
+  access violation: WRITE at 0x0000000000000000
+  [00] Application::recordCommandBuffer + 0xA5A  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_record_cmd.cpp:285)
+  [01] Application::drawFrame + 0x360  (C:\Users\becks\OneDrive\Desktop\Project\src\App.h:4055)
+  [02] Application::warmRenderAtStartup + 0xF0  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_menus_ui.cpp:377)
+  [03] Application::run + 0x568  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_lifecycle.cpp:61)
+  [04] main + 0x177C  (C:\Users\becks\OneDrive\Desktop\Project\src\main.cpp:470)
+  [05] __scrt_common_main_seh + 0x10F  (D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288)
+  [06] BaseThreadInitThunk + 0x17
+  [07] RtlUserThreadStart + 0x2C
+
+=== CRASH === 2026-08-20 22:31:53 code=0xC0000005 addr=00007FF6D2205D8A
+  access violation: WRITE at 0x0000000000000000
+  [00] Application::recordCommandBuffer + 0xA5A  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_record_cmd.cpp:285)
+  [01] Application::drawFrame + 0x360  (C:\Users\becks\OneDrive\Desktop\Project\src\App.h:4055)
+  [02] Application::warmRenderAtStartup + 0xF0  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_menus_ui.cpp:377)
+  [03] Application::run + 0x568  (C:\Users\becks\OneDrive\Desktop\Project\src\app\App_lifecycle.cpp:61)
+  [04] main + 0x177C  (C:\Users\becks\OneDrive\Desktop\Project\src\main.cpp:470)
+  [05] __scrt_common_main_seh + 0x10F  (D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288)
+  [06] BaseThreadInitThunk + 0x17
+  [07] RtlUserThreadStart + 0x2C
+
+=== CRASH === 2026-08-22 10:10:05 code=0xC0000094 addr=00007FF64323DE7A
+  [00] ``simulationStep'::`2'::<lambda_19>::operator()'::`2'::<lambda_2>::operator() + 0xADA  (C:\Users\becks\OneDrive\Desktop\Project\src\state\step\Step_collision.inl:157)
+  [01] `simulationStep'::`2'::<lambda_19>::operator() + 0x496  (C:\Users\becks\OneDrive\Desktop\Project\src\state\step\Step_collision.inl:95)
+  [02] parallelutil::ThreadPool::workerLoop + 0x109  (C:\Users\becks\OneDrive\Desktop\Project\src\Parallel.h:77)
+  [03] std::thread::_Invoke<std::tuple<`parallelutil::ThreadPool::ThreadPool'::`1'::<lambda_1> >,0> + 0x11  (C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\thread:61)
+  [04] wcsrchr + 0x150
+  [05] BaseThreadInitThunk + 0x17
+  [06] RtlUserThreadStart + 0x2C

@@ -8,4 +8,4 @@ Claude RTS error log
 [vat] bot VAT bake: 0 categories, 0 vec4 (0.00 MB)
 [net] direct connect: player 1, local port 7778, peer 127.0.0.1:7777
 [net] direct match started as player 1
-[load] 'Loading match...' worker=324ms terrainUpload=122ms textures=116ms(3) total=564ms animFrames=40
+[load] 'Loading match...' worker=2111ms terrainUpload=0ms textures=1121ms(1) total=3233ms animFrames=190

@@ -1,0 +1,11 @@
+# per-category albedo texture (material editor Pick albedo). "<XCat index> <models/path>", applied at launch.
+9 models/Alien.png   # Alien
+11 models/Ore.png   # Resource
+15 models/TreeColor.png   # Tree
+19 models/Screenshot 2026-05-01 193353.png   # Dragon
+34 models/Flying Saucer.png   # custom 
+35 models/NeutrinoSiphon.png   # custom 
+37 models/WarpConduit.png   # custom 
+38 models/Walker.png   # custom 
+39 models/DefenseTurret.png   # custom 
+40 models/Battle Helicopter.png   # custom 

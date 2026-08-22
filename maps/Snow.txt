@@ -1,10 +1,11 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 29 33
+treevariant 1
 gamemap 1
 terrainfbx models/Height_2.fbx
 terrainfbxscale 1
-renderfbx models/RenderHiRes.fbx
+renderfbx models/Render_1.fbx
 terrainmat 1 1 1 1|snow||1
 terrainmat 0.236287 0.236287 0.236287 1|BézierCircle.015||0
 terrainmat 0.312236 0.312236 0.312236 1|BézierCircle.006||0
@@ -194,4 +195,4 @@ landedge -2.57005 10.1697 -2.44691 10.0987
 landedge -2.44691 10.0987 -2.56458 8.33897
 landedge -2.56458 8.33897 -2.30992 7.00993
 landedge -2.30992 7.00993 -1.98944 6.24548
-printmat 1 0.704392 0.814346 0.81017 0.9 0.39 150 0.999 0.5 0 8 1 35 0.3 2 1.5 0.11|
+printmat 1 0.704392 0.814346 0.81017 0.9 0.39 150 0.999 0.5 0 8 1 35 0.3 2 1.5 0.11 0.649148 0.740653 0.746835 1 0.1|
