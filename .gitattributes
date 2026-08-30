@@ -1,5 +1,0 @@
-# Game assets are binary - never apply line-ending conversion to them.
-*.exe binary
-*.dll binary
-*.spv binary
-*.fbx binary
