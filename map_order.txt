@@ -1,5 +1,0 @@
-# editor Map-dropdown display order (^/v buttons). One map name per line; unlisted maps sort after, alphabetically.
-Map 1
-Snow
-Island
-EmptyMap

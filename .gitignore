@@ -1,13 +1,69 @@
-# Runtime files (regenerated when the game runs)
-ClaudeRTS-log.txt
+# What ships from this folder is exactly what a player needs to RUN the game:
+#   game.exe, the runtime DLLs, and the asset folders (models/ maps/ shaders/ textures/).
+# Everything else is a local build/dev artifact and is excluded here. Adding a file to this
+# list is not enough on its own if it was already committed - it must also be untracked with
+# `git rm --cached <path>`, because .gitignore has no effect on files git is already tracking.
+
+# --- Diagnostics. Every log, dump and self-test report goes to logs/ (see src/LogPath.h,
+# logpath::of). The loose entries below are pre-logpath artifacts that must not come back.
+logs/
+*.log
+*.dmp
 ClaudeRTS-log*.txt
+ClaudeRTS-crash.txt
+coll_debug.txt
+route_debug.txt
+routeguard.txt
+routedetach.txt
+routegpu_selftest.txt
+perframe_*.log
+
+# --- Dev/test tooling. Useful locally, not part of a client install.
+*.bat
+game.pdb
+*.ilk
+*.exp
+*.lib
+
+# --- Editor DATA. These are BAKED into game.exe (EmbeddedEditorData.inc) and getEditorText()
+# prefers a loose file over the embed - so a shipped copy silently OVERRIDES the build's own
+# data. build.bat deletes them from this folder after every deploy; this keeps a stray one
+# that appears between builds (a client run re-saves them) from ever being committed.
+albedo_overrides.txt
+bot_order.txt
+cluster_templates.txt
+construction.txt
+custom_categories.txt
+effects.txt
+map_order.txt
+mesh_variants.txt
+model_overrides.txt
+model_src_overrides.txt
+overrides.txt
+print_shapes.txt
+production.txt
+props.txt
+render_settings.txt
+resource_effects.txt
+start_config.txt
+submesh_materials.txt
+team_masks.txt
+tuning.txt
+walk_states.txt
+
+# config.txt is the ONE data file that stays local rather than shipping: it holds this
+# machine's window/camera prefs, which the game writes itself and no other machine wants.
 config.txt
 
-# Mesh cache: rebuilt by the game from the models on first run (200+ MB .mbin files - over GitHub's 100 MB/file limit).
-# Anyone who runs the build regenerates their own, so it never needs to ship.
+# --- Mesh cache: rebuilt by the game from models/ on first run (GB-scale .mbin files, well
+# over GitHub's 100 MB/file limit). Anyone who runs the game regenerates their own.
 meshcache/
 *.mbin
 
-# Other runtime-generated files
-*.dmp
-perframe_*.log
+# --- Icon PNGs are human-readable PREVIEWS only. The game loads icons from textures/*.rgba;
+# these come from `game.exe dumpicons <dir>` and have no runtime use.
+icons/
+icon_previews/
+
+# --- Backup copies kept beside the folder rather than in it.
+_ucrt-backup/

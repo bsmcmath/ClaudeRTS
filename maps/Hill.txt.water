@@ -1,0 +1,2 @@
+# water bodies (render-only). plane: cx cz halfX halfZ y yaw amp len speed steep tessel sr sg sb dr dg db.
+# spline: y amp len speed steep tessel sr sg sb dr dg db, then wnode: x z width lines. Sidecar - NOT fingerprinted.
