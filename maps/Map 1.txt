@@ -1,7 +1,6 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 23.1 23
-gamemap 1
 terrainfbx models/Height.fbx
 terrainfbxscale 1
 renderfbx models/Render.fbx
@@ -15,6 +14,33 @@ terrainmat 0.168776 0.155444 0.148124 1|Cube.142||0
 terrainmat 0.109705 0.109705 0.109705 1|Cube.144||0
 terrainmat 0.113924 0.0937167 0.074988 1|Cube.149||0
 navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\Map1\Nav.fbx
+camboundpt -21.2347 -12.2689
+camboundpt -12.789 -24.3045
+camboundpt 4.55546 -27.4631
+camboundpt 17.788 -20.1914
+camboundpt 15.5886 6.62952
+camboundpt 6.34797 17.1679
+camboundpt -13.9456 14.397
+camboundpt -20.287 2.35622
+campitchpt -38.6805 -13.8849
+campitchpt -16.0239 9.84906
+campitchpt 4.63831 12.8735
+campitchpt 15.871 4.81569
+campitchpt 34.9628 -23.245
+campitchpt 11.8789 -37.7503
+campitchpt -21.398 -37.4482
+campitchpt -33.9016 -25.7065
+campitchmag 5
+camcurveres 50
+campitchpull 0
+flyerboundpt -21.9964 -4.96901
+flyerboundpt -13.9897 -17.2061
+flyerboundpt -1.36962 -22.2627
+flyerboundpt 18.9461 -16.0052
+flyerboundpt 22.183 5.20225
+flyerboundpt 8.61437 20.4324
+flyerboundpt -13.0096 20.2962
+flyerboundpt -21.6347 11.3564
 walkslope 1.73
 maxstep 0.4
 navdensity 5

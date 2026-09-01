@@ -2,7 +2,6 @@
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 26.1 26.1
 treevariant 2
-gamemap 1
 terrainfbx models/Height_4.fbx
 terrainfbxscale 1
 renderfbx models/Render_6.fbx
