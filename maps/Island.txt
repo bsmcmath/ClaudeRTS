@@ -1,15 +1,20 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
-mapsize 26.1 26.1
+mapsize 26.9 26.9
 treevariant 2
-terrainfbx models/Height_4.fbx
+terrainfbx models/Height_5.fbx
 terrainfbxscale 1
-renderfbx models/Render_6.fbx
-terrainmat 0.126582 0.113987 0.08332 1|BézierCircle.007||0
-terrainmat 0.755274 0.67032 0.239011 1|Plane.002||0
-terrainmat 1 1 1 1|Sand.001||1
-terrainmat 0.244726 0.225316 0.21065 1|BézierCircle.018||0
+renderfbx models/Render_8.fbx
+terrainmat 0.126582 0.113987 0.08332 1|BézierCircle.007||0|0
+terrainmat 0.755274 0.67032 0.239011 1|Plane.002||0|0
+terrainmat 1 1 1 1|Sand.001||1|0
+terrainmat 0.244726 0.225316 0.21065 1|BézierCircle.018||0|0
+terrainmat 1 1 1 1|Sand||0|0
 navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\Island\Nav.fbx
+campitchmag 3
+minimapgrade -0.24 1 1 1
+camcurveres 8
+campitchpull 1
 walkslope 2.14451
 maxstep 0.05
 navdensity 5
@@ -323,4 +328,5 @@ rampbox 16.3884 -9.05815 0.849042 22 0.428289
 rampbox -9.57522 0.442804 0.177748 13 0.407038
 rampbox -9.37145 -0.331465 0.165511 15 0.387684
 rampbox -10.5963 3.1705 0.510511 6 0.296019
-printmat 0 0.843882 0.696327 0.316901 0.9 0.17 150 0.999 0.5 0 1 1 35 0.3 2 1.5 0.1 0.565401 0.392361 0.240951 0.24 0.08|
+printmat3 0 0.843882 0.696327 0.316901 0.9 0.999482 1 0.316456 0.25894 0.108156 0.11 0.05 4.05 0.76 0.01 9.57 1 6.6 0.42 7 0.21 7.1 0.016 7.04 0.06 4.09 0.85 0.04 0.09
+printsub 0 Island Sand

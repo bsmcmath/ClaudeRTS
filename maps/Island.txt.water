@@ -1,3 +1,5 @@
 # water bodies (render-only). plane: cx cz halfX halfZ y yaw amp len speed steep tessel sr sg sb dr dg db.
 # spline: y amp len speed steep tessel sr sg sb dr dg db, then wnode: x z width lines. Sidecar - NOT fingerprinted.
-plane 0 0 37.5 37.5 1.84 0 0.05 3.3 1.04 0.55 6.1 0.334562 0.64015 0.734177 0.0429418 0.147836 0.2827 1.66 1.36136 0.11 0.4 0.26 0.67 0.924051 0.962025 1 1.9 0.252 0.4 1 1 0.5 1 1 1.6 2 3 0.5
+wfield 1024
+plane 0 0 39 39 1.36 0 0.03 1 0.89 1 6 0 0 0 0 1 0.835443 0 1.78024 4 1.09 0 2 0.628639 0.662421 0.696203 16 0.103 1.48 0 0 0.5 1 1 1.6 2 3 0.5 0 0 0.16664 0.219409 0.16 0.31 1.4 0.9 1.02 0.43 0.28 0 1 1 1 0.11 0 0 0 0 0 0 0.4 8 1 0.6 0.35
+wshore 14
