@@ -1,0 +1,73 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\Ogre.fbx
+selected 0
+bone upperLegL UpperLeg.L
+bone lowerLegL LowerLeg.L
+bone footL Foot.L
+bone upperLegR UpperLeg.R
+bone lowerLegR LowerLeg.R
+bone footR Foot.R
+bone upperArmL UpperArm.L
+bone elbowL LowerArm.L
+bone handL Hand.L
+bone upperArmR UpperArm.R
+bone elbowR LowerArm.R
+bone handR Hand.R
+bodybone Body1
+bodybone Body2
+bodybone Body3
+bodybone Shoulder.R
+bodybone Head
+bodybone Shoulder.L
+anim
+type 0
+name step
+strideLength 1.801
+feetSpread 0.871
+feetForward -0.154
+stepHeight 0.499
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+armBaseDownAngle 81
+armBaseDistance 0.9
+armSwingDeg 35
+armSwingPhaseOffset 0.856
+bodyBaseY -0.186
+bodyGaitY 0.05
+gaitCurve0 1
+gaitCurve1 -4.37114e-08
+gaitCurve2 -1
+gaitCurve3 1.19249e-08
+gaitCurve4 1
+gaitCurve5 -3.37766e-07
+gaitCurve6 -1
+gaitCurve7 6.63608e-07
+bodyGaitYPhase 0
+playbackSpeed 1.184
+bodycurve Hunch
+axis 1 0 0
+curve 1 1 1 1 1 1 1 1
+w -0 0 Body1
+w -10.9 0 Body2
+w -24.3 0 Body3
+w -21.9 0 Shoulder.R
+w 2.4 0 Head
+w -21.9 0 Shoulder.L
+endbodycurve
+bodycurve Twist
+axis 0 1 0
+curve 1 0.707107 -4.37114e-08 -0.707107 -1 -0.707107 1.19249e-08 0.707107
+w -10.9 0 Body1
+w 11 0.13 Body2
+w 14.6 0.22 Body3
+w 15.8 0.2 Shoulder.R
+w 0 0 Head
+w 14.5 0.2 Shoulder.L
+endbodycurve
+bodyposxz 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+armcurve elbow -13.518 1 0 0 0 1 1 1 0.707107 -4.37114e-08 -0.707107 -1 -0.707107 1.19249e-08 0.707107 curve1
+armcurve handrot 0 3.3 94.18 -11.3 0 1 1 1 1 0.999785 1 1 1 1 1 curve1
+endanim

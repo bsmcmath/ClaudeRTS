@@ -1,0 +1,39 @@
+procanim 3
+mesh C:\Users\becks\OneDrive\Desktop\Project\models\WorkRobot.fbx
+selected 0
+bone upperLegL Leg.L
+bone upperLegR Leg.R
+bone upperArmL Arm.L
+bone upperArmR Arm.R
+bodybone Body
+bodybone Head
+anim
+type 3
+name simple1
+strideLength 0.6
+feetSpread 0.25
+feetForward 0
+stepHeight 0.15
+legKick 0
+legKickStart -90
+legKickDistance 0.9
+footKickStart 0
+footKickEnd 0
+hipsFollow 0
+feetFollow 1
+handFollowForearmL 1
+handFollowForearmR 1
+bodyBaseY 0
+bodyGaitY 0.05
+bodyGaitYPhase 0
+playbackSpeed 1
+clipDuration 1
+clipUnderlayTarget 2
+legSwingDeg 25
+bodygaitcurve 0 2 0 0 0.5 0
+bodygaitphase 1 2 0 0 1 1
+clipphase 1 2 0 0 1 1
+clipunderlayphase 1 2 0 0 1 1
+armswing 0 35 0.5 0.9 90
+bodyposxz 0 2 0 0 0 0
+endanim
