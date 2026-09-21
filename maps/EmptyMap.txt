@@ -2,11 +2,11 @@
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 10 10
 gamemap 1
-terrainfbx models/EmptyMap.fbx
+terrainfbx models/Maps/Empty/EmptyMap.fbx
 terrainfbxscale 1
-renderfbx models/EmptyMap_1.fbx
+renderfbx models/Maps/Empty/EmptyMap.fbx
 terrainmat 0.0931373 0.0931373 0.0931373 1|Plane||0
-navfbx C:\Users\becks\OneDrive\Desktop\Project\models\EmptyMap.fbx
+navfbx models/Maps/Empty/EmptyMap.fbx
 walkslope 1.73
 maxstep 0.4
 navdensity 5

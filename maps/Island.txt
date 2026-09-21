@@ -1,16 +1,16 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
-mapsize 26.9 26.9
+mapsize 28.6 28.6
 treevariant 2
-terrainfbx models/Height_5.fbx
+terrainfbx models/Maps/Island/Height.fbx
 terrainfbxscale 1
-renderfbx models/Render_8.fbx
+renderfbx models/Maps/Island/Render.fbx
 terrainmat 0.126582 0.113987 0.08332 1|BézierCircle.007||0|0
 terrainmat 0.755274 0.67032 0.239011 1|Plane.002||0|0
 terrainmat 1 1 1 1|Sand.001||1|0
 terrainmat 0.244726 0.225316 0.21065 1|BézierCircle.018||0|0
 terrainmat 1 1 1 1|Sand||0|0
-navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\Island\Nav.fbx
+navfbx models/Maps/Island/Nav.fbx
 campitchmag 3
 minimapgrade -0.24 1 1 1
 camcurveres 8
@@ -324,7 +324,7 @@ rampbox -5.77445 -18.1158 0.630966 44 0.984249
 rampbox -8.91422 -14.392 0.199488 73 0.40242
 rampbox -4.28013 -6.86167 0.479649 42 1.18998
 rampbox 9.91826 -17.2752 0.194893 39 0.511269
-rampbox 16.3884 -9.05815 0.849042 22 0.428289
+rampbox 16.3884 -9.05815 0.849041 22 0.428289
 rampbox -9.57522 0.442804 0.177748 13 0.407038
 rampbox -9.37145 -0.331465 0.165511 15 0.387684
 rampbox -10.5963 3.1705 0.510511 6 0.296019

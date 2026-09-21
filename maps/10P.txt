@@ -2,11 +2,11 @@
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 75 75
 gamemap 1
-terrainfbx models/Height_2.fbx
+terrainfbx models/Maps/10P/Height.fbx
 terrainfbxscale 1
-renderfbx models/Render_3.fbx
+renderfbx models/Maps/10P/Render.fbx
 terrainmat 0.0590717 0.0372073 0.0276665 1|Circle.012||0
-navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\10P\Nav.fbx
+navfbx models/Maps/10P/Nav.fbx
 walkslope 1.73
 maxstep 0.4
 navdensity 5

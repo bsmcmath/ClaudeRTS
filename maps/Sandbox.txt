@@ -1,15 +1,15 @@
 # CubeRTS map
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 12 13
-terrainfbx models/HeightNav_2.fbx
+terrainfbx models/Maps/Sandbox/HeightNav.fbx
 terrainfbxscale 1
-renderfbx models/Render_10.fbx
+renderfbx models/Maps/Sandbox/Render.fbx
 terrainmat 1 1 1 1|Plane.007||1|0
 terrainmat 0.531646 0.531646 0.531646 1|Cube.175||0|0
 terrainmat 0.092827 0.092827 0.092827 1|BézierCircle.025||0|0
 terrainmat 0.168776 0.168776 0.168776 1|BézierCircle.004||0|0
 terrainmat 0.64557 0.64557 0.64557 1|Cube.009||0|0
-navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\Sandbox\Nav.fbx
+navfbx models/Maps/Sandbox/Nav.fbx
 campitchmag 3
 minimapgrade 0 1 1 1
 camcurveres 8

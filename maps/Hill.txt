@@ -2,11 +2,11 @@
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 24 23.9
 gamemap 1
-terrainfbx models/Hill_2.fbx
+terrainfbx models/Maps/Hill/Hill.fbx
 terrainfbxscale 1
-renderfbx models/Hill_3.fbx
+renderfbx models/Maps/Hill/Hill.fbx
 terrainmat 0.0567656 0.07173 0.033595 1|Plane.001||0
-navfbx C:\Users\becks\OneDrive\Desktop\Project\models\Maps\Hill\Nav.fbx
+navfbx models/Maps/Hill/Nav.fbx
 walkslope 1.73
 maxstep 0.4
 navdensity 5

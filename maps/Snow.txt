@@ -2,9 +2,9 @@
 # base <player> <x> <z> <angleDeg>   resource <x> <z> <angleDeg>   barrier <x> <z> <halfLen> <angleDeg>   mapsize <half>
 mapsize 29 33
 treevariant 1
-terrainfbx models/Height_2.fbx
+terrainfbx models/Maps/10P/Height.fbx
 terrainfbxscale 1
-renderfbx models/Render_1.fbx
+renderfbx models/Maps/Snow/Render.fbx
 terrainmat 1 1 1 1|snow||1|0
 terrainmat 0.236287 0.236287 0.236287 1|BézierCircle.015||0|0
 terrainmat 0.312236 0.312236 0.312236 1|BézierCircle.006||0|0
