@@ -25,6 +25,12 @@ terrainmat 0.164557 0.164557 0.164557 1|BézierCircle.013||0|0
 terrainmat 0.164706 0.164706 0.164706 1|BézierCircle.019||0|0
 terrainmat 0.0843882 0.0821481 0.0591073 1|BézierCircle.020||0|0
 terrainmat 0.0862745 0.0823529 0.0588235 1|BézierCircle.023||0|0
+terrainmat 0.223935 0.223935 0.223935 1|ramps||0|0
+terrainmat 0.031294 0.031294 0.031294 1|SharpCliff.005||0|0
+terrainmat 0.139467 0.115638 0.0805209 1|SmoothCliff.012||0|0
+terrainmat 0.491842 0.491842 0.491842 1|bridges||0|1
+terrainmat 0.0669287 0.0592677 0.0473149 1|ground||0|0
+terrainmat 0.193187 0.177247 0.141737 1|outer cliffs||0|0
 navfbx models/Maps/Map1/Nav.fbx
 jumpedge -14.1819 3.53871 -12.4716 4.23706 -1
 jumpedge -12.4716 4.23706 -11.1954 4.94928 -1
@@ -40,21 +46,11 @@ camboundpt -10.9306 -21.5227
 camboundpt 3.43581 -22.2963
 camboundpt 21.1383 -15.7411
 camboundpt 19.611 -6.00846
-camboundpt 12.5101 3.12445
-camboundpt 8.58887 15.7418
-camboundpt 0.885918 15.7761
-camboundpt -14.1368 14.0262
+camboundpt 13.8727 3.31171
+camboundpt 10.7562 17.6174
+camboundpt 1.42547 18.8614
+camboundpt -14.7899 17.3099
 camboundpt -20.6763 2.49048
-campitchpt -38.6805 -13.8849
-campitchpt -15.7371 8.32729
-campitchpt -2.43206 10.8502
-campitchpt 6.63697 10.6514
-campitchpt 10.9515 2.3467
-campitchpt 16.2427 -4.25488
-campitchpt 34.9628 -23.245
-campitchpt 11.8789 -37.7503
-campitchpt -21.398 -37.4482
-campitchpt -33.9016 -25.7065
 campitchmag 5
 minimapgrade 0.02 1 1 1
 camcurveres 50
