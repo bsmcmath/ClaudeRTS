@@ -1,0 +1,12 @@
+# map weather (map editor, Weather section). Render-only; not part of the map fingerprint.
+effect=
+rate=200
+area=28
+wind=0 1.5 0 1
+windsteady=0.7
+windswing=15
+windoct=0.3 0.15 0.1
+overcast=0
+tint=0.55 0.6 0.72
+hfogramp=1 0.050003 3.85002
+hfogrgba=0 0 0 1

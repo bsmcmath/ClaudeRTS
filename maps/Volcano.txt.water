@@ -1,0 +1,13 @@
+# water bodies (render-only). plane: cx cz halfX halfZ y yaw amp len speed steep tessel sr sg sb dr dg db.
+# spline: y amp len speed steep tessel sr sg sb dr dg db, then wnode: x z width y twist lines, then wseg: a b h0xyz h1xyz lines. Sidecar - NOT fingerprinted.
+wfield 1024
+plane 3 -8.4 7.3 6.7 3.54 0 0 2.60002 0 0 2.9 0.1 0.36 0.44 0.041601 0.00331654 0 0 0 0 0 0.00699998 1 0.0382273 0.0192494 0.00593862 3 0.104 0 0 1 0.5 1 1 1.6 2 3 0.5 0 0.4781 0.0166958 0 1 0.09 0 3.14 0 0 0 0 1 1 1 0.18 0 0 0 0 0 0 1 4 0 0 0
+wshore 8
+wopaque 1
+wtrim 1
+wedge 0.15 0 0
+wedgerip 0 0.012 0.25 0.5 1.5 1.2 0.6 0 1.5 0.3
+wfoam 0 0 0.71
+wvor 1 0.43 0.490002 0.780001 1 0.25 0.500001
+wsurffx 5.77999 1 lava bubble
+wsurffxsize 0 0.250001
